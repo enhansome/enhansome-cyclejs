@@ -33,7 +33,7 @@
             "last_commit": "2021-10-26T12:15:21Z",
             "owner": "staltz",
             "repo": "rxmarbles",
-            "stars": 4198
+            "stars": 4197
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2016-06-06T07:09:19Z",
             "owner": "unite-network",
             "repo": "component-check",
-            "stars": 466
+            "stars": 465
           }
         },
         {
@@ -1476,7 +1476,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T10:43:25.333Z",
+    "last_updated": "2026-08-14T10:38:53.681Z",
     "original_repository": "cyclejs-community/awesome-cyclejs",
     "original_repository_sha": "b1dec7ef9021766ebc41c3dda750362e3012c0af",
     "enhanced_repository": "enhansome/enhansome-cyclejs",
