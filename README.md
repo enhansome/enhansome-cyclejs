@@ -1,6 +1,6 @@
 # Awesome cyclejs with stars
 
-## Awesome Cycle.js [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 496,309 | 🐛 100 | 📅 2026-06-30
+## Awesome Cycle.js [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 496,738 | 🐛 100 | 📅 2026-06-30
 
 A collection of awesome Cycle.js tools, resources, videos and shiny things.
 
@@ -130,7 +130,7 @@ A collection of awesome Cycle.js tools, resources, videos and shiny things.
 * [r7kamura/cycle-fetcher-driver ★14](https://github.com/r7kamura/cycle-fetcher-driver) ⭐ 14 | 🐛 0 | 🌐 JavaScript | 📅 2015-10-08 - A Cycle.js Driver for making HTTP requests using [stackable-fetcher](https://github.com/r7kamura/stackable-fetcher) ⭐ 19 | 🐛 0 | 🌐 JavaScript | 📅 2016-01-30.
 * [Avalander/cycle-idb ★4](https://github.com/Avalander/cycle-idb) ⚠️ Archived - A Cycle.js driver wrapping IndexedDB
 * [CyclicMaterials/cycle-hammer-driver ★11](https://github.com/CyclicMaterials/cycle-hammer-driver) ⭐ 12 | 🐛 0 | 🌐 JavaScript | 📅 2015-11-25 - A Cycle.js driver to wrap Hammer.js and detect touch gestures
-* [unhappychoice/cycle-pusher ★1](https://github.com/unhappychoice/cycle-pusher) ⭐ 11 | 🐛 3 | 🌐 TypeScript | 📅 2026-08-12 - A Cycle.js driver for [Pusher](https://pusher.com/)
+* [unhappychoice/cycle-pusher ★1](https://github.com/unhappychoice/cycle-pusher) ⭐ 11 | 🐛 2 | 🌐 TypeScript | 📅 2026-08-16 - A Cycle.js driver for [Pusher](https://pusher.com/)
 * [EnigmaCurry/cycle-deepstream ★8](https://github.com/EnigmaCurry/cycle-deepstream) ⭐ 10 | 🐛 0 | 🌐 TypeScript | 📅 2018-06-18 - A Cycle.js driver for [deepstream.io](https://deepstream.io)
 * [cyclejs-community/cycle-keyboard ★9](https://github.com/cyclejs-community/cycle-keyboard) ⭐ 9 | 🐛 8 | 🌐 TypeScript | 📅 2017-08-15 - A keyboard driver for cycle.js
 * [jessaustin/cycle-sse-driver ★6](https://github.com/jessaustin/cycle-sse-driver) ⭐ 6 | 🐛 0 | 🌐 CoffeeScript | 📅 2016-01-28 - Source driver for Server-Sent Events/EventSource.
@@ -180,7 +180,7 @@ A collection of awesome Cycle.js tools, resources, videos and shiny things.
 ### Testing
 
 * [erykpiast/cyclejs-mock ★22](https://github.com/erykpiast/cyclejs-mock) ⭐ 22 | 🐛 0 | 🌐 JavaScript | 📅 2015-05-19 - Utility for testing applications based on CycleJS framework.
-* [jeysal/pretty-format-snabbdom ★0](https://github.com/jeysal/pretty-format-snabbdom) ⭐ 6 | 🐛 14 | 🌐 JavaScript | 📅 2022-12-09 - A [pretty-format](https://github.com/facebook/jest/tree/master/packages/pretty-format) ⭐ 45,469 | 🐛 181 | 🌐 TypeScript | 📅 2026-08-16 ([Jest](https://facebook.github.io/jest/) snapshot) plugin for rendering snapshots of snabbdom VNodes as nicely as those of React elements
+* [jeysal/pretty-format-snabbdom ★0](https://github.com/jeysal/pretty-format-snabbdom) ⭐ 6 | 🐛 14 | 🌐 JavaScript | 📅 2022-12-09 - A [pretty-format](https://github.com/facebook/jest/tree/master/packages/pretty-format) ⭐ 45,467 | 🐛 182 | 🌐 TypeScript | 📅 2026-08-17 ([Jest](https://facebook.github.io/jest/) snapshot) plugin for rendering snapshots of snabbdom VNodes as nicely as those of React elements
 
 ### Debugging
 
@@ -205,4 +205,4 @@ A collection of awesome Cycle.js tools, resources, videos and shiny things.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
