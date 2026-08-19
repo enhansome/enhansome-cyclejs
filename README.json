@@ -1556,8 +1556,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T10:02:59.494Z",
+    "last_updated": "2026-08-19T12:26:03.457Z",
     "original_repository": "cyclejs-community/awesome-cyclejs",
+    "original_repository_id": 38357107,
     "original_repository_sha": "b1dec7ef9021766ebc41c3dda750362e3012c0af",
     "enhanced_repository": "enhansome/enhansome-cyclejs",
     "enhanced_repository_description": null,
