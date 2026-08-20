@@ -1,6 +1,6 @@
 # Awesome cyclejs with stars
 
-## Awesome Cycle.js [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 497,658 | 🐛 102 | 📅 2026-08-18
+## Awesome Cycle.js [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 498,000 | 🐛 105 | 📅 2026-08-18
 
 A collection of awesome Cycle.js tools, resources, videos and shiny things.
 
@@ -62,10 +62,10 @@ A collection of awesome Cycle.js tools, resources, videos and shiny things.
 
 ### Example Applications
 
-* [**cyclejs/cycle-examples**](https://github.com/cyclejs/cyclejs/tree/master/examples) ⭐ 10,226 | 🐛 127 | 🌐 TypeScript | 📅 2026-06-09 - Official collection of small Cycle.js examples
+* [**cyclejs/cycle-examples**](https://github.com/cyclejs/cyclejs/tree/master/examples) ⭐ 10,225 | 🐛 127 | 🌐 TypeScript | 📅 2026-06-09 - Official collection of small Cycle.js examples
 * [**staltz/rxmarbles ★2,577**](https://github.com/staltz/rxmarbles) ⚠️ Archived - Interactive diagrams of Rx Observables <http://rxmarbles.com/>
-* [**staltz/matrixmultiplication.xyz ★548**](https://github.com/staltz/matrixmultiplication.xyz) ⭐ 1,215 | 🐛 10 | 🌐 TypeScript | 📅 2022-01-21 - A interactive matrix multiplication [webapp](http://matrixmultiplication.xyz/)
-* [staltz/mmmmm-mobile ★124](https://github.com/staltz/mmmmm-mobile/) ⭐ 955 | 🐛 13 | 🌐 TypeScript | 📅 2024-08-13 - A React Native + Cycle.js app to implement a social network on Secure Scuttlebutt networks
+* [**staltz/matrixmultiplication.xyz ★548**](https://github.com/staltz/matrixmultiplication.xyz) ⭐ 1,216 | 🐛 10 | 🌐 TypeScript | 📅 2022-01-21 - A interactive matrix multiplication [webapp](http://matrixmultiplication.xyz/)
+* [staltz/mmmmm-mobile ★124](https://github.com/staltz/mmmmm-mobile/) ⭐ 954 | 🐛 13 | 🌐 TypeScript | 📅 2024-08-13 - A React Native + Cycle.js app to implement a social network on Secure Scuttlebutt networks
 * [**Mercateo/component-check ★468**](https://github.com/Mercateo/component-check) ⭐ 466 | 🐛 1 | 📅 2016-06-06 - Common patterns for building Cycle.js components
 * [staltz/dat-installer ★77](https://github.com/staltz/dat-installer) ⭐ 270 | 🐛 8 | 🌐 TypeScript | 📅 2018-09-26 - Download, install, and update Android apps through Dat
 * [cyclejs/todomvc-cycle ★214](https://github.com/cyclejs/todomvc-cycle/) ⭐ 238 | 🐛 6 | 🌐 JavaScript | 📅 2018-07-10 - TodoMVC [example](https://cyclejs.github.io/todomvc-cycle/) implemented in Cycle.js
@@ -105,11 +105,11 @@ A collection of awesome Cycle.js tools, resources, videos and shiny things.
 
 ### Drivers
 
-* [@cycle/http](https://github.com/cyclejs/cyclejs/tree/master/http) ⭐ 10,226 | 🐛 127 | 🌐 TypeScript | 📅 2026-06-09 - A Cycle.js Driver for making HTTP requests, based on superagent.
-* [**@cycle/dom**](https://github.com/cyclejs/cyclejs/tree/master/dom) ⭐ 10,226 | 🐛 127 | 🌐 TypeScript | 📅 2026-06-09 - A Cycle.js driver to enable interaction with the DOM. The driver is based on snabbdom as the Virtual DOM library.
-* [@cycle/history](https://github.com/cyclejs/cyclejs/tree/master/history) ⭐ 10,226 | 🐛 127 | 🌐 TypeScript | 📅 2026-06-09 - This is the standard Cycle.js driver for dealing with the [History API](https://developer.mozilla.org/en-US/docs/Web/API/History_API)
-* [@cycle/isolate](https://github.com/cyclejs/cyclejs/tree/master/isolate) ⭐ 10,226 | 🐛 127 | 🌐 TypeScript | 📅 2026-06-09 - A utility function to make scoped dataflow components in Cycle.js.
-* [@cycle/time](https://github.com/cyclejs/cyclejs/tree/master/time) ⭐ 10,226 | 🐛 127 | 🌐 TypeScript | 📅 2026-06-09 - Fast and beautiful tests and time management for Cycle.js
+* [@cycle/http](https://github.com/cyclejs/cyclejs/tree/master/http) ⭐ 10,225 | 🐛 127 | 🌐 TypeScript | 📅 2026-06-09 - A Cycle.js Driver for making HTTP requests, based on superagent.
+* [**@cycle/dom**](https://github.com/cyclejs/cyclejs/tree/master/dom) ⭐ 10,225 | 🐛 127 | 🌐 TypeScript | 📅 2026-06-09 - A Cycle.js driver to enable interaction with the DOM. The driver is based on snabbdom as the Virtual DOM library.
+* [@cycle/history](https://github.com/cyclejs/cyclejs/tree/master/history) ⭐ 10,225 | 🐛 127 | 🌐 TypeScript | 📅 2026-06-09 - This is the standard Cycle.js driver for dealing with the [History API](https://developer.mozilla.org/en-US/docs/Web/API/History_API)
+* [@cycle/isolate](https://github.com/cyclejs/cyclejs/tree/master/isolate) ⭐ 10,225 | 🐛 127 | 🌐 TypeScript | 📅 2026-06-09 - A utility function to make scoped dataflow components in Cycle.js.
+* [@cycle/time](https://github.com/cyclejs/cyclejs/tree/master/time) ⭐ 10,225 | 🐛 127 | 🌐 TypeScript | 📅 2026-06-09 - Fast and beautiful tests and time management for Cycle.js
 * [cyclejs-community/redux-cycles ★599](https://github.com/cyclejs-community/redux-cycles) ⭐ 739 | 🐛 9 | 🌐 JavaScript | 📅 2018-01-15 - A Redux middleware that allows you to handle actions lifecycle with Cycle.js
 * [cyclejs-community/cyclic-router ★90](https://github.com/cyclejs-community/cyclic-router) ⭐ 109 | 🐛 29 | 🌐 JavaScript | 📅 2018-12-13 - Router Driver built for Cycle.js
 * [@cycle/storage](https://github.com/cyclejs/storage) ⭐ 51 | 🐛 7 | 🌐 TypeScript | 📅 2020-12-17 - A Cycle.js Driver for using localStorage and sessionStorage.
@@ -180,7 +180,7 @@ A collection of awesome Cycle.js tools, resources, videos and shiny things.
 ### Testing
 
 * [erykpiast/cyclejs-mock ★22](https://github.com/erykpiast/cyclejs-mock) ⭐ 22 | 🐛 0 | 🌐 JavaScript | 📅 2015-05-19 - Utility for testing applications based on CycleJS framework.
-* [jeysal/pretty-format-snabbdom ★0](https://github.com/jeysal/pretty-format-snabbdom) ⭐ 6 | 🐛 14 | 🌐 JavaScript | 📅 2022-12-09 - A [pretty-format](https://github.com/facebook/jest/tree/master/packages/pretty-format) ⭐ 45,469 | 🐛 178 | 🌐 TypeScript | 📅 2026-08-19 ([Jest](https://facebook.github.io/jest/) snapshot) plugin for rendering snapshots of snabbdom VNodes as nicely as those of React elements
+* [jeysal/pretty-format-snabbdom ★0](https://github.com/jeysal/pretty-format-snabbdom) ⭐ 6 | 🐛 14 | 🌐 JavaScript | 📅 2022-12-09 - A [pretty-format](https://github.com/facebook/jest/tree/master/packages/pretty-format) ⭐ 45,468 | 🐛 183 | 🌐 TypeScript | 📅 2026-08-20 ([Jest](https://facebook.github.io/jest/) snapshot) plugin for rendering snapshots of snabbdom VNodes as nicely as those of React elements
 
 ### Debugging
 
@@ -205,4 +205,4 @@ A collection of awesome Cycle.js tools, resources, videos and shiny things.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
