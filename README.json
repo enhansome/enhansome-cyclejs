@@ -32,7 +32,7 @@
                 "last_commit": "2021-10-26T12:15:21Z",
                 "owner": "staltz",
                 "repo": "rxmarbles",
-                "stars": 4197
+                "stars": 4196
               }
             },
             {
@@ -1556,7 +1556,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T10:04:43.570Z",
+    "last_updated": "2026-08-21T10:05:22.308Z",
     "original_repository": "cyclejs-community/awesome-cyclejs",
     "original_repository_id": 38357107,
     "original_repository_sha": "b1dec7ef9021766ebc41c3dda750362e3012c0af",
