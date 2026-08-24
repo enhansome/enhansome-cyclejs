@@ -1458,6 +1458,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "cyclejs/cycle-time-travel ★213",
+              "description": "A time travelling debugger for Cycle.js apps. Displays a stream visualizer that you can drag to go back in time.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 41466293,
+                "language": "JavaScript",
+                "last_commit": "2017-03-27T05:00:58Z",
+                "owner": "cyclejs",
+                "repo": "cycle-time-travel",
+                "stars": 216
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Debugging"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "raquelxmoss/cycle-color-picker ★44",
               "description": "A Color Picker component for Cycle.js. Check out the example.",
               "children": [],
@@ -1556,7 +1578,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T10:21:15.606Z",
+    "last_updated": "2026-08-24T14:17:00.725Z",
     "original_repository": "cyclejs-community/awesome-cyclejs",
     "original_repository_id": 38357107,
     "original_repository_sha": "b1dec7ef9021766ebc41c3dda750362e3012c0af",
