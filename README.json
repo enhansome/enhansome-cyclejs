@@ -17,7 +17,7 @@
                 "last_commit": "2026-06-09T05:20:11Z",
                 "owner": "cyclejs",
                 "repo": "cyclejs",
-                "stars": 10225
+                "stars": 10224
               }
             },
             {
@@ -465,7 +465,7 @@
                 "last_commit": "2026-06-09T05:20:11Z",
                 "owner": "cyclejs",
                 "repo": "cyclejs",
-                "stars": 10225
+                "stars": 10224
               }
             },
             {
@@ -480,7 +480,7 @@
                 "last_commit": "2026-06-09T05:20:11Z",
                 "owner": "cyclejs",
                 "repo": "cyclejs",
-                "stars": 10225
+                "stars": 10224
               }
             },
             {
@@ -495,7 +495,7 @@
                 "last_commit": "2026-06-09T05:20:11Z",
                 "owner": "cyclejs",
                 "repo": "cyclejs",
-                "stars": 10225
+                "stars": 10224
               }
             },
             {
@@ -510,7 +510,7 @@
                 "last_commit": "2026-06-09T05:20:11Z",
                 "owner": "cyclejs",
                 "repo": "cyclejs",
-                "stars": 10225
+                "stars": 10224
               }
             },
             {
@@ -525,7 +525,7 @@
                 "last_commit": "2026-06-09T05:20:11Z",
                 "owner": "cyclejs",
                 "repo": "cyclejs",
-                "stars": 10225
+                "stars": 10224
               }
             },
             {
@@ -1578,9 +1578,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T10:17:22.929Z",
-    "original_repository": "cyclejs-community/awesome-cyclejs",
-    "original_repository_id": 38357107,
+    "last_updated": "2026-08-27T11:33:41.035Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 38357107,
+      "language": null,
+      "last_commit": "2020-12-07T11:32:59Z",
+      "owner": "cyclejs-community",
+      "repo": "awesome-cyclejs",
+      "stars": 822
+    },
     "original_repository_sha": "b1dec7ef9021766ebc41c3dda750362e3012c0af",
     "enhanced_repository": "enhansome/enhansome-cyclejs",
     "enhanced_repository_description": null,
