@@ -12,12 +12,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A functional and reactive JavaScript framework for predictable code",
+                "homepage": "http://cycle.js.org",
                 "id": 26316966,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-06-09T05:20:11Z",
+                "open_issues": 127,
                 "owner": "cyclejs",
                 "repo": "cyclejs",
-                "stars": 10224
+                "stars": 10224,
+                "topics": [
+                  "cyclejs",
+                  "framework",
+                  "functional-programming",
+                  "javascript",
+                  "reactive-programming",
+                  "rxjs",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T20:59:08.930Z"
             },
@@ -28,12 +41,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": " Interactive diagrams of Rx Observables",
+                "homepage": "http://www.rxmarbles.com",
                 "id": 21909714,
                 "language": "JavaScript",
+                "license": "BSD-3-Clause",
                 "last_commit": "2021-10-26T12:15:21Z",
+                "open_issues": 36,
                 "owner": "staltz",
                 "repo": "rxmarbles",
-                "stars": 4196
+                "stars": 4196,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:08.930Z"
             },
@@ -44,12 +62,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "http://matrixmultiplication.xyz/",
                 "id": 68111261,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2022-01-21T16:47:50Z",
+                "open_issues": 10,
                 "owner": "staltz",
                 "repo": "matrixmultiplication.xyz",
-                "stars": 1217
+                "stars": 1217,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:08.930Z"
             },
@@ -60,12 +83,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A social network off the grid (real repo at https://gitlab.com/staltz/manyverse)",
+                "homepage": "https://manyver.se",
                 "id": 97752259,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2024-08-13T15:26:21Z",
+                "open_issues": 13,
                 "owner": "staltz",
                 "repo": "manyverse",
-                "stars": 954
+                "stars": 954,
+                "topics": [
+                  "cyclejs",
+                  "manyverse",
+                  "p2p",
+                  "peer-to-peer",
+                  "scuttlebutt",
+                  "ssb",
+                  "ssbc"
+                ]
               },
               "first_seen": "2026-08-28T20:59:08.930Z"
             },
@@ -76,12 +112,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A quick introduction to exploring how components can be created in several frameworks.",
+                "homepage": null,
                 "id": 45023880,
                 "language": null,
+                "license": "Apache-2.0",
                 "last_commit": "2016-06-06T07:09:19Z",
+                "open_issues": 1,
                 "owner": "unite-network",
                 "repo": "component-check",
-                "stars": 466
+                "stars": 466,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:08.930Z"
             },
@@ -92,12 +133,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Download, install, and update Android apps through Dat",
+                "homepage": null,
                 "id": 108126162,
                 "language": "TypeScript",
+                "license": "GPL-3.0",
                 "last_commit": "2018-09-26T11:13:04Z",
+                "open_issues": 8,
                 "owner": "staltz",
                 "repo": "dat-installer",
-                "stars": 270
+                "stars": 270,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:08.930Z"
             },
@@ -108,12 +154,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TodoMVC example implemented in Cycle.js",
+                "homepage": "https://cyclejs.github.io/todomvc-cycle/",
                 "id": 26407151,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2018-07-10T08:24:15Z",
+                "open_issues": 6,
                 "owner": "cyclejs",
                 "repo": "todomvc-cycle",
-                "stars": 238
+                "stars": 238,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:08.930Z"
             },
@@ -124,12 +175,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple Cycle.js application visualized: streams, events, DOM",
+                "homepage": "https://glebbahmutov.com/draw-cycle/",
                 "id": 50312494,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2016-10-09T13:32:08Z",
+                "open_issues": 1,
                 "owner": "bahmutov",
                 "repo": "draw-cycle",
-                "stars": 150
+                "stars": 150,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:08.930Z"
             },
@@ -140,12 +196,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "CycleJS examples",
+                "homepage": null,
                 "id": 32323619,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2017-11-14T12:01:04Z",
+                "open_issues": 0,
                 "owner": "ivan-kleshnin",
                 "repo": "cyclejs-examples",
-                "stars": 121
+                "stars": 121,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:08.930Z"
             },
@@ -156,12 +217,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hackernews Clone Using CycleJS",
+                "homepage": "https://cyclejs-hn.firebaseapp.com",
                 "id": 107647011,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2017-11-24T23:21:45Z",
+                "open_issues": 0,
                 "owner": "usm4n",
                 "repo": "cycle-hn",
-                "stars": 42
+                "stars": 42,
+                "topics": [
+                  "cycle-app",
+                  "cyclejs",
+                  "functional-programming",
+                  "progressive-web-app",
+                  "pwa",
+                  "reactive-programming"
+                ]
               },
               "first_seen": "2026-08-28T20:59:08.930Z"
             },
@@ -172,12 +245,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A set of tools for teaching and learning computer science built with cycle.js",
+                "homepage": "https://thesis.laszlokorte.de",
                 "id": 47889274,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-12-09T11:48:30Z",
+                "open_issues": 18,
                 "owner": "laszlokorte",
                 "repo": "tams-tools",
-                "stars": 30
+                "stars": 30,
+                "topics": [
+                  "computer-science",
+                  "cyclejs",
+                  "e-learning",
+                  "teaching"
+                ]
               },
               "first_seen": "2026-08-28T20:59:08.930Z"
             },
@@ -188,12 +271,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Media player written with Cycle.js and Electron.",
+                "homepage": null,
                 "id": 47281201,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2020-01-01T11:33:21Z",
+                "open_issues": 0,
                 "owner": "alkhe",
                 "repo": "electron-cycle-media",
-                "stars": 29
+                "stars": 29,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:08.930Z"
             },
@@ -204,12 +292,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Try Cycle.js in your browser, no setup required.",
+                "homepage": "http://widdersh.in/tricycle/",
                 "id": 46708512,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2017-06-20T03:27:37Z",
+                "open_issues": 9,
                 "owner": "Widdershin",
                 "repo": "tricycle",
-                "stars": 26
+                "stars": 26,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:08.930Z"
             },
@@ -220,12 +313,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Minimum Viable Pizza",
+                "homepage": null,
                 "id": 31750073,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2015-06-17T01:02:59Z",
+                "open_issues": 6,
                 "owner": "cgeorg",
                 "repo": "todomvp",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:08.930Z"
             },
@@ -236,12 +334,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cycle.js version of https://swizec.com/blog/animating-svg-nodes-react-preact-inferno-vue/swizec/7311",
+                "homepage": null,
                 "id": 77139767,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2017-01-07T21:11:32Z",
+                "open_issues": 0,
                 "owner": "wmaurer",
                 "repo": "cyclejs-fractals",
-                "stars": 22
+                "stars": 22,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:08.930Z"
             },
@@ -252,12 +355,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "cycle.js expirement",
+                "homepage": "http://oleg.fi/graafi",
                 "id": 35545213,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2015-05-18T11:19:32Z",
+                "open_issues": 0,
                 "owner": "phadej",
                 "repo": "graafi",
-                "stars": 20
+                "stars": 20,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:08.930Z"
             },
@@ -268,12 +376,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Reactive Live London Tube trains status",
+                "homepage": null,
                 "id": 54907226,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2016-10-16T22:21:33Z",
+                "open_issues": 1,
                 "owner": "lucamezzalira",
                 "repo": "jsday-cycle-js",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:08.930Z"
             },
@@ -284,12 +397,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tetris game implemented in CycleJS",
+                "homepage": null,
                 "id": 38049244,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2015-12-10T18:37:35Z",
+                "open_issues": 3,
                 "owner": "ivan-kleshnin",
                 "repo": "tetris-game",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:08.930Z"
             },
@@ -300,12 +418,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Cycle implementation of twitter who to follow box",
+                "homepage": "http://kibin.github.io/cycle-example-who-to-follow/",
                 "id": 46746301,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2023-07-09T13:55:03Z",
+                "open_issues": 3,
                 "owner": "kibin",
                 "repo": "cycle-example-who-to-follow",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:08.930Z"
             },
@@ -316,12 +439,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Cycle.js Component Examples with Routing & Transitions!",
+                "homepage": null,
                 "id": 46540918,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2016-10-20T03:45:15Z",
+                "open_issues": 0,
                 "owner": "SkaterDad",
                 "repo": "cycle-snabbdom-examples",
-                "stars": 13
+                "stars": 13,
+                "topics": [
+                  "cyclejs",
+                  "examples",
+                  "hero-transition",
+                  "xstream"
+                ]
               },
               "first_seen": "2026-08-28T20:59:08.930Z"
             },
@@ -332,12 +465,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Example web applications built with Cycle.js.",
+                "homepage": null,
                 "id": 35559766,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2015-06-10T23:06:27Z",
+                "open_issues": 0,
                 "owner": "erykpiast",
                 "repo": "cyclejs-examples",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:08.930Z"
             },
@@ -348,12 +486,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A website to showcase the cool projects built with Cycle.js",
+                "homepage": "http://cyclejs-community.github.io/built-with-cycle",
                 "id": 49240477,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2018-02-01T07:07:07Z",
+                "open_issues": 1,
                 "owner": "cyclejs-community",
                 "repo": "built-with-cycle",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:08.930Z"
             },
@@ -364,12 +507,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":fishing_pole_and_fish: Hangman game built with Cycle.js",
+                "homepage": "http://class-ideas.github.io/cyclejs-hangman/",
                 "id": 47528465,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2016-11-29T21:07:37Z",
+                "open_issues": 1,
                 "owner": "class-ideas",
                 "repo": "cyclejs-hangman",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:08.930Z"
             },
@@ -380,12 +528,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cycle JS sample shopping cart.",
+                "homepage": null,
                 "id": 43791613,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2015-10-17T22:12:04Z",
+                "open_issues": 0,
                 "owner": "MarcCloud",
                 "repo": "magic-cart",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:08.930Z"
             },
@@ -396,12 +549,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Star Wars character search app using Cycle.js, RxJS and Virtual DOM tests",
+                "homepage": null,
                 "id": 88936700,
                 "language": "CSS",
+                "license": "MIT",
                 "last_commit": "2017-10-22T17:12:25Z",
+                "open_issues": 0,
                 "owner": "fabiothiroki",
                 "repo": "cyclejs-starwars",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "cyclejs",
+                  "rxjs"
+                ]
               },
               "first_seen": "2026-08-28T20:59:08.930Z"
             },
@@ -412,12 +573,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Notes app using Cycle.js and Orbit.js",
+                "homepage": "https://jefersondaniel.com/cyclejs-notes",
                 "id": 108347851,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2022-12-04T05:41:05Z",
+                "open_issues": 13,
                 "owner": "jefersondaniel",
                 "repo": "cyclejs-notes",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:08.930Z"
             },
@@ -428,12 +594,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A github emoji viewer made with Cycle.JS",
+                "homepage": "https://github-emoji.levizraelit.com/",
                 "id": 115463135,
                 "language": "JavaScript",
+                "license": "ISC",
                 "last_commit": "2017-12-27T20:06:47Z",
+                "open_issues": 0,
                 "owner": "lizraeli",
                 "repo": "cycle-github-emojis",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:08.930Z"
             },
@@ -444,12 +615,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Slack trend search utilizing cycle.js",
+                "homepage": null,
                 "id": 28081703,
                 "language": "CSS",
+                "license": null,
                 "last_commit": "2015-01-12T09:04:09Z",
+                "open_issues": 0,
                 "owner": "grozen",
                 "repo": "trends-cycle",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:08.930Z"
             },
@@ -460,12 +636,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Meetup.com RSVP visualization around the world using Cycle.JS",
+                "homepage": "http://www.zp11108.tld.122.155.17.167.no-domain.name",
                 "id": 157013909,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2018-11-11T20:29:04Z",
+                "open_issues": 0,
                 "owner": "perjerz",
                 "repo": "meetup.com",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:08.930Z"
             }
@@ -489,12 +670,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A functional and reactive JavaScript framework for predictable code",
+                "homepage": "http://cycle.js.org",
                 "id": 26316966,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-06-09T05:20:11Z",
+                "open_issues": 127,
                 "owner": "cyclejs",
                 "repo": "cyclejs",
-                "stars": 10224
+                "stars": 10224,
+                "topics": [
+                  "cyclejs",
+                  "framework",
+                  "functional-programming",
+                  "javascript",
+                  "reactive-programming",
+                  "rxjs",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T20:59:08.930Z"
             },
@@ -505,12 +699,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A functional and reactive JavaScript framework for predictable code",
+                "homepage": "http://cycle.js.org",
                 "id": 26316966,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-06-09T05:20:11Z",
+                "open_issues": 127,
                 "owner": "cyclejs",
                 "repo": "cyclejs",
-                "stars": 10224
+                "stars": 10224,
+                "topics": [
+                  "cyclejs",
+                  "framework",
+                  "functional-programming",
+                  "javascript",
+                  "reactive-programming",
+                  "rxjs",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T20:59:08.930Z"
             },
@@ -521,12 +728,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A functional and reactive JavaScript framework for predictable code",
+                "homepage": "http://cycle.js.org",
                 "id": 26316966,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-06-09T05:20:11Z",
+                "open_issues": 127,
                 "owner": "cyclejs",
                 "repo": "cyclejs",
-                "stars": 10224
+                "stars": 10224,
+                "topics": [
+                  "cyclejs",
+                  "framework",
+                  "functional-programming",
+                  "javascript",
+                  "reactive-programming",
+                  "rxjs",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T20:59:08.930Z"
             },
@@ -537,12 +757,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A functional and reactive JavaScript framework for predictable code",
+                "homepage": "http://cycle.js.org",
                 "id": 26316966,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-06-09T05:20:11Z",
+                "open_issues": 127,
                 "owner": "cyclejs",
                 "repo": "cyclejs",
-                "stars": 10224
+                "stars": 10224,
+                "topics": [
+                  "cyclejs",
+                  "framework",
+                  "functional-programming",
+                  "javascript",
+                  "reactive-programming",
+                  "rxjs",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T20:59:08.930Z"
             },
@@ -553,12 +786,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A functional and reactive JavaScript framework for predictable code",
+                "homepage": "http://cycle.js.org",
                 "id": 26316966,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-06-09T05:20:11Z",
+                "open_issues": 127,
                 "owner": "cyclejs",
                 "repo": "cyclejs",
-                "stars": 10224
+                "stars": 10224,
+                "topics": [
+                  "cyclejs",
+                  "framework",
+                  "functional-programming",
+                  "javascript",
+                  "reactive-programming",
+                  "rxjs",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T20:59:08.930Z"
             },
@@ -569,12 +815,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bring functional reactive programming to Redux using Cycle.js",
+                "homepage": null,
                 "id": 75409754,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2018-01-15T00:02:41Z",
+                "open_issues": 9,
                 "owner": "cyclejs-community",
                 "repo": "redux-cycles",
-                "stars": 739
+                "stars": 739,
+                "topics": [
+                  "cycle",
+                  "cycle-driver",
+                  "cyclejs",
+                  "functional-reactive-programming",
+                  "middleware",
+                  "react",
+                  "reactive",
+                  "redux",
+                  "redux-cycle-middleware",
+                  "side-effect"
+                ]
               },
               "first_seen": "2026-08-28T20:59:08.930Z"
             },
@@ -585,12 +847,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Router Driver built for Cycle.js",
+                "homepage": null,
                 "id": 51093784,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2018-12-13T17:44:57Z",
+                "open_issues": 29,
                 "owner": "cyclejs-community",
                 "repo": "cyclic-router",
-                "stars": 109
+                "stars": 109,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:08.930Z"
             },
@@ -601,12 +868,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Cycle.js Driver for using localStorage and sessionStorage.",
+                "homepage": null,
                 "id": 45843789,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2020-12-17T20:24:14Z",
+                "open_issues": 7,
                 "owner": "cyclejs",
                 "repo": "storage",
-                "stars": 51
+                "stars": 51,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:08.930Z"
             },
@@ -617,12 +889,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cycle.js applications for the terminal.",
+                "homepage": "https://www.npmjs.com/package/cycle-blessed",
                 "id": 55845950,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2016-05-16T01:44:20Z",
+                "open_issues": 3,
                 "owner": "alkhe",
                 "repo": "cycle-blessed",
-                "stars": 49
+                "stars": 49,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:08.930Z"
             },
@@ -633,12 +910,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Alternative DOM driver utilizing the snabbdom library",
+                "homepage": null,
                 "id": 44710417,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2016-06-04T09:16:07Z",
+                "open_issues": 2,
                 "owner": "TylorS",
                 "repo": "cycle-snabbdom",
-                "stars": 41
+                "stars": 41,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:08.930Z"
             },
@@ -649,12 +931,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Cycle driver for requestAnimationFrame",
+                "homepage": null,
                 "id": 46333679,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2017-03-06T18:36:13Z",
+                "open_issues": 2,
                 "owner": "Widdershin",
                 "repo": "cycle-animation-driver",
-                "stars": 34
+                "stars": 34,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:08.930Z"
             },
@@ -665,12 +952,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Cycle.js driver for keyboard events",
+                "homepage": "http://raquelxmoss.github.io/cycle-keys/",
                 "id": 57199333,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2016-09-10T05:24:04Z",
+                "open_issues": 1,
                 "owner": "raquelxmoss",
                 "repo": "cycle-keys",
-                "stars": 32
+                "stars": 32,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:08.930Z"
             },
@@ -681,12 +973,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A router driver for Cycle.js, wrapping the router5 library",
+                "homepage": null,
                 "id": 40697330,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2015-09-09T12:05:51Z",
+                "open_issues": 4,
                 "owner": "axefrog",
                 "repo": "cycle-router5",
-                "stars": 29
+                "stars": 29,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:08.930Z"
             },
@@ -697,12 +994,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Cycle driver for Socket.IO clients",
+                "homepage": null,
                 "id": 37565345,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2017-10-23T13:51:40Z",
+                "open_issues": 0,
                 "owner": "cgeorg",
                 "repo": "cycle-socket.io",
-                "stars": 28
+                "stars": 28,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:08.930Z"
             },
@@ -713,12 +1015,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A cycle.js driver wrapping gun.js storage",
+                "homepage": null,
                 "id": 82018668,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2018-01-23T14:21:11Z",
+                "open_issues": 0,
                 "owner": "JuniperChicago",
                 "repo": "cycle-gun",
-                "stars": 27
+                "stars": 27,
+                "topics": [
+                  "cycle-gun",
+                  "cyclejs",
+                  "gun",
+                  "gun-driver",
+                  "xstream"
+                ]
               },
               "first_seen": "2026-08-28T20:59:08.930Z"
             },
@@ -729,12 +1042,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Factory for creating async request/response cycle.js drivers",
+                "homepage": null,
                 "id": 54020205,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2017-02-25T13:46:36Z",
+                "open_issues": 1,
                 "owner": "wclr",
                 "repo": "cycle-async-driver",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:08.930Z"
             },
@@ -745,12 +1063,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cycle.js drivers for electron apps",
+                "homepage": null,
                 "id": 51272972,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2017-06-06T15:17:31Z",
+                "open_issues": 2,
                 "owner": "apoco",
                 "repo": "cycle-electron-driver",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:08.930Z"
             },
@@ -761,12 +1084,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 39382954,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2016-03-31T20:08:09Z",
+                "open_issues": 2,
                 "owner": "cyclejs",
                 "repo": "cycle-notification-driver",
-                "stars": 21
+                "stars": 21,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:08.930Z"
             },
@@ -777,12 +1105,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cycle driver for my favorite realtime database :)",
+                "homepage": null,
                 "id": 52382458,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2016-03-13T10:27:04Z",
+                "open_issues": 3,
                 "owner": "dralletje",
                 "repo": "cycle-firebase",
-                "stars": 21
+                "stars": 21,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:08.930Z"
             },
@@ -793,12 +1126,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🚲 A Cycle.js Driver for Telegram Bot API",
+                "homepage": null,
                 "id": 58273013,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2017-03-19T10:23:32Z",
+                "open_issues": 5,
                 "owner": "goodmind",
                 "repo": "cycle-telegram",
-                "stars": 20
+                "stars": 20,
+                "topics": [
+                  "bot",
+                  "cyclejs",
+                  "telegram"
+                ]
               },
               "first_seen": "2026-08-28T20:59:08.930Z"
             },
@@ -809,12 +1151,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Audio graph driver for Cycle.js based on virtual-audio-graph",
+                "homepage": null,
                 "id": 45038406,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-03-02T10:01:20Z",
+                "open_issues": 0,
                 "owner": "benji6",
                 "repo": "cycle-audio-graph",
-                "stars": 19
+                "stars": 19,
+                "topics": [
+                  "cyclejs",
+                  "web-audio",
+                  "web-audio-api"
+                ]
               },
               "first_seen": "2026-08-28T20:59:08.930Z"
             },
@@ -825,12 +1176,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Cycle.js driver for animating (srsly) localStorage.",
+                "homepage": null,
                 "id": 61225018,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2016-06-21T07:11:51Z",
+                "open_issues": 0,
                 "owner": "rkrupinski",
                 "repo": "cyclejs-animated-localstorage",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:08.930Z"
             },
@@ -841,12 +1197,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Cycle.js Driver for making HTTP requests using fetcher.",
+                "homepage": null,
                 "id": 43794168,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2015-10-08T13:38:03Z",
+                "open_issues": 0,
                 "owner": "r7kamura",
                 "repo": "cycle-fetcher-driver",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:08.930Z"
             },
@@ -857,12 +1218,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A cycle driver for IndexedDB.",
+                "homepage": null,
                 "id": 96937111,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2018-04-26T07:59:04Z",
+                "open_issues": 1,
                 "owner": "cyclejs-community",
                 "repo": "cycle-idb",
-                "stars": 13
+                "stars": 13,
+                "topics": [
+                  "cyclejs",
+                  "driver",
+                  "idb",
+                  "indexeddb"
+                ]
               },
               "first_seen": "2026-08-28T20:59:08.930Z"
             },
@@ -873,12 +1244,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Hammer driver for Cycle.js",
+                "homepage": null,
                 "id": 46839304,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2015-11-25T08:08:15Z",
+                "open_issues": 0,
                 "owner": "CyclicMaterials",
                 "repo": "cycle-hammer-driver",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:08.930Z"
             },
@@ -889,12 +1265,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":recycle: Cycle.js driver for Pusher",
+                "homepage": null,
                 "id": 108122031,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-16T14:26:04Z",
+                "open_issues": 2,
                 "owner": "unhappychoice",
                 "repo": "cycle-pusher",
-                "stars": 11
+                "stars": 11,
+                "topics": [
+                  "cyclejs",
+                  "library",
+                  "pusher",
+                  "typescript",
+                  "websocket",
+                  "wrapper"
+                ]
               },
               "first_seen": "2026-08-28T20:59:08.930Z"
             },
@@ -905,12 +1293,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cycle.js driver for deepstream.io",
+                "homepage": null,
                 "id": 83736303,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2018-06-18T19:11:12Z",
+                "open_issues": 0,
                 "owner": "EnigmaCurry",
                 "repo": "cycle-deepstream",
-                "stars": 10
+                "stars": 10,
+                "topics": [
+                  "cyclejs",
+                  "deepstream"
+                ]
               },
               "first_seen": "2026-08-28T20:59:08.930Z"
             },
@@ -921,12 +1317,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A keyboard driver for cycle.js",
+                "homepage": null,
                 "id": 62638332,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2017-08-15T17:23:14Z",
+                "open_issues": 8,
                 "owner": "cyclejs-community",
                 "repo": "cycle-keyboard",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:08.930Z"
             },
@@ -937,12 +1338,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cycle.js driver for Server-Sent Events",
+                "homepage": null,
                 "id": 48377196,
                 "language": "CoffeeScript",
+                "license": "MIT",
                 "last_commit": "2016-01-28T17:14:51Z",
+                "open_issues": 0,
                 "owner": "jessaustin",
                 "repo": "cycle-sse-driver",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:08.930Z"
             },
@@ -953,12 +1359,21 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Driver and router component for manage HTTP/HTTPS services with Cycle.js",
+                "homepage": null,
                 "id": 94106067,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2017-09-06T08:28:17Z",
+                "open_issues": 1,
                 "owner": "mrpierrot",
                 "repo": "cycle-node-http-server",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "cyclejs",
+                  "http-server",
+                  "nodejs"
+                ]
               },
               "first_seen": "2026-08-28T20:59:08.930Z"
             },
@@ -969,12 +1384,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of Cycle.js drivers for programming robots",
+                "homepage": "https://gitlab.com/mjyc/cycle-robot-drivers",
                 "id": 155636401,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2020-09-03T06:59:11Z",
+                "open_issues": 1,
                 "owner": "mjyc",
                 "repo": "cycle-robot-drivers",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "cyclejs",
+                  "functional-programming",
+                  "reactive-programming",
+                  "robotics"
+                ]
               },
               "first_seen": "2026-08-28T20:59:08.930Z"
             },
@@ -985,12 +1410,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of Cycle.js drivers for programming robots",
+                "homepage": "https://gitlab.com/mjyc/cycle-robot-drivers",
                 "id": 155636401,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2020-09-03T06:59:11Z",
+                "open_issues": 1,
                 "owner": "mjyc",
                 "repo": "cycle-robot-drivers",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "cyclejs",
+                  "functional-programming",
+                  "reactive-programming",
+                  "robotics"
+                ]
               },
               "first_seen": "2026-08-28T20:59:08.930Z"
             },
@@ -1001,12 +1436,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of Cycle.js drivers for programming robots",
+                "homepage": "https://gitlab.com/mjyc/cycle-robot-drivers",
                 "id": 155636401,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2020-09-03T06:59:11Z",
+                "open_issues": 1,
                 "owner": "mjyc",
                 "repo": "cycle-robot-drivers",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "cyclejs",
+                  "functional-programming",
+                  "reactive-programming",
+                  "robotics"
+                ]
               },
               "first_seen": "2026-08-28T20:59:08.930Z"
             },
@@ -1017,12 +1462,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tiny client-side router for Cycle.js",
+                "homepage": "https://www.npmjs.com/package/cycle-page",
                 "id": 65287797,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2017-03-07T12:15:32Z",
+                "open_issues": 1,
                 "owner": "garrydzeng",
                 "repo": "cycle-page",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:08.930Z"
             },
@@ -1033,12 +1483,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 67360856,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2016-09-06T23:43:08Z",
+                "open_issues": 0,
                 "owner": "jbowden1982",
                 "repo": "cycle-socketcluster",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:08.930Z"
             },
@@ -1049,12 +1504,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Cycle.js driver for interacting with the Selection API",
+                "homepage": null,
                 "id": 115660129,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-01-05T22:04:06Z",
+                "open_issues": 13,
                 "owner": "helmoski",
                 "repo": "cycle-selection-driver",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:08.930Z"
             },
@@ -1065,12 +1525,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Express.js driver for Cycle.js",
+                "homepage": null,
                 "id": 84371214,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2017-03-27T10:11:41Z",
+                "open_issues": 0,
                 "owner": "Alex0007",
                 "repo": "cycle-express-driver",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "cycle-driver",
+                  "cyclejs",
+                  "expressjs"
+                ]
               },
               "first_seen": "2026-08-28T20:59:08.930Z"
             },
@@ -1081,12 +1550,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cycle.js for the Fetch API",
+                "homepage": null,
                 "id": 44585784,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2015-10-21T05:48:58Z",
+                "open_issues": 0,
                 "owner": "secobarbital",
                 "repo": "cycle-fetch-driver",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:08.930Z"
             },
@@ -1097,12 +1571,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CycleJS Cookie Driver",
+                "homepage": null,
                 "id": 55991027,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2016-10-12T10:41:27Z",
+                "open_issues": 0,
                 "owner": "10clouds",
                 "repo": "cyclejs-cookie",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:08.930Z"
             },
@@ -1113,12 +1592,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Node HTTP(S)/WS(S)/Socket.io drivers for CycleJS",
+                "homepage": null,
                 "id": 95787135,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2018-10-25T09:09:19Z",
+                "open_issues": 0,
                 "owner": "mrpierrot",
                 "repo": "cycle-net",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:08.930Z"
             },
@@ -1129,12 +1613,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cycle.js command line driver",
+                "homepage": null,
                 "id": 52323689,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2016-02-23T09:30:30Z",
+                "open_issues": 0,
                 "owner": "rektide",
                 "repo": "recyclec",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:08.930Z"
             }
@@ -1152,12 +1641,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Terse syntax for hyperscript.",
+                "homepage": null,
                 "id": 38385620,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2020-07-15T20:46:10Z",
+                "open_issues": 5,
                 "owner": "ohanhi",
                 "repo": "hyperscript-helpers",
-                "stars": 632
+                "stars": 632,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:08.930Z"
             },
@@ -1168,12 +1662,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Rx functional interface to Facebook's React",
+                "homepage": null,
                 "id": 35191255,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2019-08-14T10:07:48Z",
+                "open_issues": 3,
                 "owner": "pH200",
                 "repo": "cycle-react",
-                "stars": 369
+                "stars": 369,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:08.930Z"
             },
@@ -1184,12 +1683,24 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "MIGRATED! This was transfered to https://cycle.js.org/api/state.html",
+                "homepage": null,
                 "id": 68108550,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2018-11-08T12:04:07Z",
+                "open_issues": 13,
                 "owner": "staltz",
                 "repo": "cycle-onionify",
-                "stars": 279
+                "stars": 279,
+                "topics": [
+                  "cyclejs",
+                  "fractal",
+                  "javascript",
+                  "reactive-programming",
+                  "state-management",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T20:59:08.930Z"
             },
@@ -1200,12 +1711,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Chai assertion helpers for virtual-dom elements",
+                "homepage": null,
                 "id": 42263777,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2015-09-12T11:24:05Z",
+                "open_issues": 0,
                 "owner": "staltz",
                 "repo": "chai-virtual-dom",
-                "stars": 24
+                "stars": 24,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:08.930Z"
             },
@@ -1216,12 +1732,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Everything you need to start playing with Auth0 on your Cyclejs app",
+                "homepage": null,
                 "id": 63541736,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2018-03-12T16:38:15Z",
+                "open_issues": 1,
                 "owner": "atomrc",
                 "repo": "cyclejs-auth0",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:08.930Z"
             },
@@ -1232,12 +1753,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Utility for CycleJS framework for reducing boilerplate when creating groups of streams",
+                "homepage": null,
                 "id": 34676555,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2015-07-22T07:24:42Z",
+                "open_issues": 0,
                 "owner": "erykpiast",
                 "repo": "cyclejs-group",
-                "stars": 18
+                "stars": 18,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:08.930Z"
             },
@@ -1248,12 +1774,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Makes all children of a selected component sortable",
+                "homepage": null,
                 "id": 67406346,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2019-01-03T20:36:40Z",
+                "open_issues": 2,
                 "owner": "cyclejs-community",
                 "repo": "cyclejs-sortable",
-                "stars": 17
+                "stars": 17,
+                "topics": [
+                  "cyclejs",
+                  "drag-and-drop"
+                ]
               },
               "first_seen": "2026-08-28T20:59:08.930Z"
             },
@@ -1264,12 +1798,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple javascript injection framework that supports cyclical dependencies and lazy resolution.",
+                "homepage": null,
                 "id": 30991945,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2015-06-03T02:29:04Z",
+                "open_issues": 2,
                 "owner": "cgeorg",
                 "repo": "sinject",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:08.930Z"
             },
@@ -1280,12 +1819,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Augments your Cycle.js component (main function) by storing its onion-shaped state in local storage",
+                "homepage": null,
                 "id": 72653161,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2018-02-01T16:03:39Z",
+                "open_issues": 0,
                 "owner": "maiermic",
                 "repo": "cycle-storageify",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:08.930Z"
             },
@@ -1296,12 +1840,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Main function factory for CycleJS",
+                "homepage": null,
                 "id": 54747962,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2018-03-22T16:09:28Z",
+                "open_issues": 0,
                 "owner": "WorldMaker",
                 "repo": "cycle-gear",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:08.930Z"
             },
@@ -1312,12 +1861,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Utility for creating Web Components based on Cycle.js",
+                "homepage": null,
                 "id": 38364328,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2015-07-01T10:15:36Z",
+                "open_issues": 5,
                 "owner": "erykpiast",
                 "repo": "cyclejs-wc",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:08.930Z"
             },
@@ -1328,12 +1882,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Earl Grey wrapper for Cycle.js/virtual-dom hyperscript DSL",
+                "homepage": null,
                 "id": 39510610,
                 "language": null,
+                "license": null,
                 "last_commit": "2015-07-28T23:21:37Z",
+                "open_issues": 0,
                 "owner": "MadcapJake",
                 "repo": "earl-hyperscript",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:08.930Z"
             },
@@ -1344,12 +1903,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Handle dynamic lists of Cycle.js components with ease.",
+                "homepage": null,
                 "id": 143037587,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2018-12-15T14:16:09Z",
+                "open_issues": 1,
                 "owner": "shfrmn",
                 "repo": "cycle-lot",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "collection",
+                  "cycle",
+                  "cyclejs",
+                  "isolate",
+                  "list",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T20:59:08.930Z"
             }
@@ -1367,12 +1938,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Scaffold an isomorphic Cycle.js app in seconds.",
+                "homepage": "https://www.npmjs.com/package/cyc-cli",
                 "id": 46348124,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2016-11-14T00:14:57Z",
+                "open_issues": 11,
                 "owner": "alkhe",
                 "repo": "cyc",
-                "stars": 194
+                "stars": 194,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:08.930Z"
             },
@@ -1383,12 +1959,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "cycle webpack babel boilerplate",
+                "homepage": null,
                 "id": 47000740,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2016-12-28T16:36:18Z",
+                "open_issues": 7,
                 "owner": "Cmdv",
                 "repo": "cycle-webpack-boilerplate",
-                "stars": 94
+                "stars": 94,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:08.930Z"
             },
@@ -1399,12 +1980,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An opinionated starter for Cycle.js projects powered by TypeScript.",
+                "homepage": null,
                 "id": 63149519,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2017-10-22T11:09:10Z",
+                "open_issues": 2,
                 "owner": "cyclejs-community",
                 "repo": "typescript-starter-cycle",
-                "stars": 36
+                "stars": 36,
+                "topics": [
+                  "cycle",
+                  "starter-project",
+                  "typescript",
+                  "visual-studio-code",
+                  "webpack"
+                ]
               },
               "first_seen": "2026-08-28T20:59:08.930Z"
             },
@@ -1415,12 +2007,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Cycle.js starter project with hot reloading using browserify-hmr",
+                "homepage": null,
                 "id": 47241109,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2016-03-19T20:27:36Z",
+                "open_issues": 1,
                 "owner": "Widdershin",
                 "repo": "cycle-hot-reloading-example",
-                "stars": 26
+                "stars": 26,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:08.930Z"
             },
@@ -1431,12 +2028,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Universal PWA Cycle.js & Koa boilerplate with Webpack configured for ServiceWorker and HMR out of the box",
+                "homepage": null,
                 "id": 89983298,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-01-23T18:10:39Z",
+                "open_issues": 16,
                 "owner": "wyqydsyq",
                 "repo": "unicycle",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:08.930Z"
             },
@@ -1447,12 +2049,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple isomorphic cycle app starter",
+                "homepage": null,
                 "id": 58846559,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2016-05-22T20:46:00Z",
+                "open_issues": 0,
                 "owner": "syarul",
                 "repo": "cycle-iso",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:08.930Z"
             },
@@ -1463,12 +2070,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Scaffold out a Cycle.js Nested Dialogue module.",
+                "homepage": null,
                 "id": 42025870,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-12-15T05:56:56Z",
+                "open_issues": 2,
                 "owner": "Frikki",
                 "repo": "generator-cyclejs",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:08.930Z"
             },
@@ -1479,12 +2091,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A preconfigured template for Cycle.js with Snowpack",
+                "homepage": null,
                 "id": 318711991,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2020-12-05T06:32:55Z",
+                "open_issues": 0,
                 "owner": "rajasegar",
                 "repo": "snowpack-cycle",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:08.930Z"
             },
@@ -1495,12 +2112,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Cycle.js starter project using browserify and cycle-hmr",
+                "homepage": null,
                 "id": 59514456,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2016-05-23T20:04:46Z",
+                "open_issues": 0,
                 "owner": "mciparelli",
                 "repo": "cycle-hmr-example",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:08.930Z"
             }
@@ -1518,12 +2140,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Utility for testing applications based on CycleJS framework.",
+                "homepage": null,
                 "id": 34995105,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2015-05-19T22:46:25Z",
+                "open_issues": 0,
                 "owner": "erykpiast",
                 "repo": "cyclejs-mock",
-                "stars": 22
+                "stars": 22,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:08.930Z"
             },
@@ -1534,12 +2161,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "pretty-format (Jest snapshot) plugin for snabbdom VNodes",
+                "homepage": null,
                 "id": 109618151,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-12-09T08:19:19Z",
+                "open_issues": 14,
                 "owner": "jeysal",
                 "repo": "pretty-format-snabbdom",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:08.930Z"
             }
@@ -1557,12 +2189,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A time traveling debugger for Cycle.js",
+                "homepage": null,
                 "id": 41466293,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2017-03-27T05:00:58Z",
+                "open_issues": 16,
                 "owner": "cyclejs",
                 "repo": "cycle-time-travel",
-                "stars": 216
+                "stars": 216,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:08.930Z"
             }
@@ -1580,12 +2217,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A color picker component for Cycle.js",
+                "homepage": "https://raquelxmoss.github.io/cycle-color-picker/",
                 "id": 59546641,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2018-07-01T15:20:23Z",
+                "open_issues": 2,
                 "owner": "raquelxmoss",
                 "repo": "cycle-color-picker",
-                "stars": 58
+                "stars": 58,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:08.930Z"
             },
@@ -1596,12 +2238,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Select Web Component with autocompletion. Based on RxJS and VirtualDOM.",
+                "homepage": null,
                 "id": 32552819,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2015-05-11T23:38:50Z",
+                "open_issues": 0,
                 "owner": "erykpiast",
                 "repo": "autocompleted-select",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:08.930Z"
             },
@@ -1612,12 +2259,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Calendar component for Cycle.js",
+                "homepage": null,
                 "id": 49832771,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2016-01-18T11:58:41Z",
+                "open_issues": 0,
                 "owner": "enten",
                 "repo": "cyclejs-calendar",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:08.930Z"
             },
@@ -1628,12 +2280,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Google Maps style SVG pan and zoom component for Cycle.js",
+                "homepage": null,
                 "id": 72334308,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2016-11-05T01:56:36Z",
+                "open_issues": 3,
                 "owner": "cyclejs-community",
                 "repo": "cycle-svg-pan-and-zoom",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:08.930Z"
             },
@@ -1644,12 +2301,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "https://tommy-the-runner.github.io/cyclejs-ace-editor/",
                 "id": 61985820,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2017-02-27T20:36:34Z",
+                "open_issues": 0,
                 "owner": "tommy-the-runner",
                 "repo": "cyclejs-ace-editor",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "cyclejs"
+                ]
               },
               "first_seen": "2026-08-28T20:59:08.930Z"
             },
@@ -1660,12 +2324,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cycle.js component for rendering a gravatar profile image",
+                "homepage": "https://mciparelli.github.io/cyclejs-gravatar/example/",
                 "id": 50213844,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2016-01-24T16:05:35Z",
+                "open_issues": 0,
                 "owner": "mciparelli",
                 "repo": "cyclejs-gravatar",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:59:08.930Z"
             }
@@ -1679,15 +2348,20 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T20:59:08.930Z",
+    "last_updated": "2026-08-29T04:36:40.036Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome Cycle.js resources",
+      "homepage": "http://cycle.js.org",
       "id": 38357107,
       "language": null,
+      "license": null,
       "last_commit": "2020-12-07T11:32:59Z",
+      "open_issues": 1,
       "owner": "cyclejs-community",
       "repo": "awesome-cyclejs",
-      "stars": 822
+      "stars": 822,
+      "topics": []
     },
     "original_repository_sha": "b1dec7ef9021766ebc41c3dda750362e3012c0af",
     "enhanced_repository": "enhansome/enhansome-cyclejs",
