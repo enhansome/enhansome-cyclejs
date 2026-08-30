@@ -1,6 +1,6 @@
 # Awesome cyclejs with stars
 
-## Awesome Cycle.js [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 501,033 | 🐛 105 | 📅 2026-08-21
+## Awesome Cycle.js [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 501,338 | 🐛 105 | 📅 2026-08-21
 
 A collection of awesome Cycle.js tools, resources, videos and shiny things.
 
@@ -135,7 +135,7 @@ A collection of awesome Cycle.js tools, resources, videos and shiny things.
 * [cyclejs-community/cycle-keyboard ★9](https://github.com/cyclejs-community/cycle-keyboard) ⭐ 9 | 🐛 8 | 🌐 TypeScript | 📅 2017-08-15 - A keyboard driver for cycle.js
 * [jessaustin/cycle-sse-driver ★6](https://github.com/jessaustin/cycle-sse-driver) ⭐ 6 | 🐛 0 | 🌐 CoffeeScript | 📅 2016-01-28 - Source driver for Server-Sent Events/EventSource.
 * [mrpierrot/cycle-node-http-server ★4](https://github.com/mrpierrot/cycle-node-http-server) ⚠️ Archived - A Cycle.js driver for Node.js HTTP(S) server
-* [mjyc/cycle-posenet-driver ★1](https://github.com/mjyc/cycle-robot-drivers/tree/master/3rdparty/cycle-posenet-driver) ⭐ 6 | 🐛 1 | 🌐 TypeScript | 📅 2020-09-03 - A Cycle.js drivers for pose detection using [TensorFlow.js](https://js.tensorflow.org/)-powered [PoseNet](https://github.com/tensorflow/tfjs-models/tree/master/posenet) ⭐ 14,796 | 🐛 280 | 🌐 TypeScript | 📅 2026-06-23
+* [mjyc/cycle-posenet-driver ★1](https://github.com/mjyc/cycle-robot-drivers/tree/master/3rdparty/cycle-posenet-driver) ⭐ 6 | 🐛 1 | 🌐 TypeScript | 📅 2020-09-03 - A Cycle.js drivers for pose detection using [TensorFlow.js](https://js.tensorflow.org/)-powered [PoseNet](https://github.com/tensorflow/tfjs-models/tree/master/posenet) ⭐ 14,798 | 🐛 280 | 🌐 TypeScript | 📅 2026-06-23
 * [@cycle-robot-drivers/speech ★1](https://github.com/mjyc/cycle-robot-drivers/tree/master/speech) ⭐ 6 | 🐛 1 | 🌐 TypeScript | 📅 2020-09-03 - Cycle.js drivers for speech synthesis and recognition using [Web Speech API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API)
 * [@cycle-robot-drivers/sound ★1](https://github.com/mjyc/cycle-robot-drivers/tree/master/sound) ⭐ 6 | 🐛 1 | 🌐 TypeScript | 📅 2020-09-03 - A Cycle.js driver for playing sounds using [HTMLAudioElement](https://developer.mozilla.org/en-US/docs/Web/API/HTMLAudioElement)
 * [garrydzeng/cycle-page ★3](https://github.com/garrydzeng/cycle-page) ⭐ 4 | 🐛 1 | 🌐 JavaScript | 📅 2017-03-07 - A tiny client-side router for Cycle.js
@@ -180,7 +180,7 @@ A collection of awesome Cycle.js tools, resources, videos and shiny things.
 ### Testing
 
 * [erykpiast/cyclejs-mock ★22](https://github.com/erykpiast/cyclejs-mock) ⭐ 22 | 🐛 0 | 🌐 JavaScript | 📅 2015-05-19 - Utility for testing applications based on CycleJS framework.
-* [jeysal/pretty-format-snabbdom ★0](https://github.com/jeysal/pretty-format-snabbdom) ⭐ 6 | 🐛 14 | 🌐 JavaScript | 📅 2022-12-09 - A [pretty-format](https://github.com/facebook/jest/tree/master/packages/pretty-format) ⭐ 45,476 | 🐛 183 | 🌐 TypeScript | 📅 2026-08-28 ([Jest](https://facebook.github.io/jest/) snapshot) plugin for rendering snapshots of snabbdom VNodes as nicely as those of React elements
+* [jeysal/pretty-format-snabbdom ★0](https://github.com/jeysal/pretty-format-snabbdom) ⭐ 6 | 🐛 14 | 🌐 JavaScript | 📅 2022-12-09 - A [pretty-format](https://github.com/facebook/jest/tree/master/packages/pretty-format) ⭐ 45,472 | 🐛 184 | 🌐 TypeScript | 📅 2026-08-29 ([Jest](https://facebook.github.io/jest/) snapshot) plugin for rendering snapshots of snabbdom VNodes as nicely as those of React elements
 
 ### Debugging
 
@@ -205,4 +205,4 @@ A collection of awesome Cycle.js tools, resources, videos and shiny things.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
