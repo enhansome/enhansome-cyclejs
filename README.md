@@ -1,6 +1,6 @@
 # Awesome cyclejs with stars
 
-## Awesome Cycle.js [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 503,879 | 🐛 106 | 📅 2026-09-02
+## Awesome Cycle.js [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 504,146 | 🐛 106 | 📅 2026-09-02
 
 A collection of awesome Cycle.js tools, resources, videos and shiny things.
 
@@ -166,7 +166,7 @@ A collection of awesome Cycle.js tools, resources, videos and shiny things.
 
 ### Boilerplates
 
-* [**edge/cyc ★194**](https://github.com/edge/cyc) ⭐ 194 | 🐛 11 | 🌐 JavaScript | 📅 2016-11-14 - Scaffold an isomorphic Cycle.js app in seconds.
+* [**edge/cyc ★194**](https://github.com/edge/cyc) ⭐ 193 | 🐛 11 | 🌐 JavaScript | 📅 2016-11-14 - Scaffold an isomorphic Cycle.js app in seconds.
 * [cmdv/cycle-webpack-boilerplate ★101](https://github.com/Cmdv/cycle-webpack-boilerplate) ⭐ 94 | 🐛 7 | 🌐 JavaScript | 📅 2016-12-28 - Cycle app with routing, state handling and tests.
 * [cycle-community/typescript-starter-cycle ★22](https://github.com/cyclejs-community/typescript-starter-cycle) ⭐ 36 | 🐛 2 | 🌐 TypeScript | 📅 2017-10-22 - A simple project for getting started with TypeScript in cycle.js, using Webpack. Has settings for Visual Studio Code as candy.
 * [Widdershin/cycle-hot-reloading-example ★27](https://github.com/Widdershin/cycle-hot-reloading-example) ⭐ 26 | 🐛 1 | 🌐 JavaScript | 📅 2016-03-19 - A Cycle.js starter project with hot reloading using browserify-hmr
@@ -180,7 +180,7 @@ A collection of awesome Cycle.js tools, resources, videos and shiny things.
 ### Testing
 
 * [erykpiast/cyclejs-mock ★22](https://github.com/erykpiast/cyclejs-mock) ⭐ 22 | 🐛 0 | 🌐 JavaScript | 📅 2015-05-19 - Utility for testing applications based on CycleJS framework.
-* [jeysal/pretty-format-snabbdom ★0](https://github.com/jeysal/pretty-format-snabbdom) ⭐ 6 | 🐛 14 | 🌐 JavaScript | 📅 2022-12-09 - A [pretty-format](https://github.com/facebook/jest/tree/master/packages/pretty-format) ⭐ 45,477 | 🐛 193 | 🌐 TypeScript | 📅 2026-09-07 ([Jest](https://facebook.github.io/jest/) snapshot) plugin for rendering snapshots of snabbdom VNodes as nicely as those of React elements
+* [jeysal/pretty-format-snabbdom ★0](https://github.com/jeysal/pretty-format-snabbdom) ⭐ 6 | 🐛 14 | 🌐 JavaScript | 📅 2022-12-09 - A [pretty-format](https://github.com/facebook/jest/tree/master/packages/pretty-format) ⭐ 45,479 | 🐛 194 | 🌐 TypeScript | 📅 2026-09-07 ([Jest](https://facebook.github.io/jest/) snapshot) plugin for rendering snapshots of snabbdom VNodes as nicely as those of React elements
 
 ### Debugging
 
@@ -205,4 +205,4 @@ A collection of awesome Cycle.js tools, resources, videos and shiny things.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._

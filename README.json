@@ -205,7 +205,7 @@
                 "open_issues": 0,
                 "owner": "ivan-kleshnin",
                 "repo": "cyclejs-examples",
-                "stars": 121,
+                "stars": 119,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:59:08.930Z"
@@ -1947,7 +1947,7 @@
                 "open_issues": 11,
                 "owner": "alkhe",
                 "repo": "cyc",
-                "stars": 194,
+                "stars": 193,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:59:08.930Z"
@@ -2348,7 +2348,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T15:14:17.358Z",
+    "last_updated": "2026-09-08T13:52:10.068Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Cycle.js resources",
