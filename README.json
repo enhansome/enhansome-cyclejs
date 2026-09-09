@@ -71,7 +71,7 @@
                 "open_issues": 10,
                 "owner": "staltz",
                 "repo": "matrixmultiplication.xyz",
-                "stars": 1217,
+                "stars": 1218,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:59:08.930Z"
@@ -121,7 +121,7 @@
                 "open_issues": 1,
                 "owner": "unite-network",
                 "repo": "component-check",
-                "stars": 466,
+                "stars": 465,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:59:08.930Z"
@@ -2348,7 +2348,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T13:52:10.068Z",
+    "last_updated": "2026-09-09T13:54:18.402Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Cycle.js resources",

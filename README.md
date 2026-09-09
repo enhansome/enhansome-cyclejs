@@ -1,6 +1,6 @@
 # Awesome cyclejs with stars
 
-## Awesome Cycle.js [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 504,146 | 🐛 106 | 📅 2026-09-02
+## Awesome Cycle.js [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 504,436 | 🐛 106 | 📅 2026-09-02
 
 A collection of awesome Cycle.js tools, resources, videos and shiny things.
 
@@ -64,9 +64,9 @@ A collection of awesome Cycle.js tools, resources, videos and shiny things.
 
 * [**cyclejs/cycle-examples**](https://github.com/cyclejs/cyclejs/tree/master/examples) ⭐ 10,225 | 🐛 129 | 🌐 TypeScript | 📅 2026-06-09 - Official collection of small Cycle.js examples
 * [**staltz/rxmarbles ★2,577**](https://github.com/staltz/rxmarbles) ⚠️ Archived - Interactive diagrams of Rx Observables <http://rxmarbles.com/>
-* [**staltz/matrixmultiplication.xyz ★548**](https://github.com/staltz/matrixmultiplication.xyz) ⭐ 1,217 | 🐛 10 | 🌐 TypeScript | 📅 2022-01-21 - A interactive matrix multiplication [webapp](http://matrixmultiplication.xyz/)
+* [**staltz/matrixmultiplication.xyz ★548**](https://github.com/staltz/matrixmultiplication.xyz) ⭐ 1,218 | 🐛 10 | 🌐 TypeScript | 📅 2022-01-21 - A interactive matrix multiplication [webapp](http://matrixmultiplication.xyz/)
 * [staltz/mmmmm-mobile ★124](https://github.com/staltz/mmmmm-mobile/) ⭐ 953 | 🐛 13 | 🌐 TypeScript | 📅 2024-08-13 - A React Native + Cycle.js app to implement a social network on Secure Scuttlebutt networks
-* [**Mercateo/component-check ★468**](https://github.com/Mercateo/component-check) ⭐ 466 | 🐛 1 | 📅 2016-06-06 - Common patterns for building Cycle.js components
+* [**Mercateo/component-check ★468**](https://github.com/Mercateo/component-check) ⭐ 465 | 🐛 1 | 📅 2016-06-06 - Common patterns for building Cycle.js components
 * [staltz/dat-installer ★77](https://github.com/staltz/dat-installer) ⭐ 270 | 🐛 8 | 🌐 TypeScript | 📅 2018-09-26 - Download, install, and update Android apps through Dat
 * [cyclejs/todomvc-cycle ★214](https://github.com/cyclejs/todomvc-cycle/) ⭐ 237 | 🐛 6 | 🌐 JavaScript | 📅 2018-07-10 - TodoMVC [example](https://cyclejs.github.io/todomvc-cycle/) implemented in Cycle.js
 * [bahmutov/draw-cycle ★112](https://github.com/bahmutov/draw-cycle) ⭐ 150 | 🐛 1 | 🌐 HTML | 📅 2016-10-09 - Interactive visualization of counter application showing the data flow inside a MVI component [glebbahmutov.com/draw-cycle](https://glebbahmutov.com/draw-cycle/)
@@ -180,7 +180,7 @@ A collection of awesome Cycle.js tools, resources, videos and shiny things.
 ### Testing
 
 * [erykpiast/cyclejs-mock ★22](https://github.com/erykpiast/cyclejs-mock) ⭐ 22 | 🐛 0 | 🌐 JavaScript | 📅 2015-05-19 - Utility for testing applications based on CycleJS framework.
-* [jeysal/pretty-format-snabbdom ★0](https://github.com/jeysal/pretty-format-snabbdom) ⭐ 6 | 🐛 14 | 🌐 JavaScript | 📅 2022-12-09 - A [pretty-format](https://github.com/facebook/jest/tree/master/packages/pretty-format) ⭐ 45,479 | 🐛 194 | 🌐 TypeScript | 📅 2026-09-07 ([Jest](https://facebook.github.io/jest/) snapshot) plugin for rendering snapshots of snabbdom VNodes as nicely as those of React elements
+* [jeysal/pretty-format-snabbdom ★0](https://github.com/jeysal/pretty-format-snabbdom) ⭐ 6 | 🐛 14 | 🌐 JavaScript | 📅 2022-12-09 - A [pretty-format](https://github.com/facebook/jest/tree/master/packages/pretty-format) ⭐ 45,468 | 🐛 195 | 🌐 TypeScript | 📅 2026-09-07 ([Jest](https://facebook.github.io/jest/) snapshot) plugin for rendering snapshots of snabbdom VNodes as nicely as those of React elements
 
 ### Debugging
 
@@ -192,7 +192,7 @@ A collection of awesome Cycle.js tools, resources, videos and shiny things.
 * [erykpiast/autocompleted-select ★10](https://github.com/erykpiast/autocompleted-select) ⭐ 12 | 🐛 0 | 🌐 JavaScript | 📅 2015-05-11 - Select Web Component with autocompletion. Based on RxJS and VirtualDOM.
 * [enten/cyclejs-calendar ★11](https://github.com/enten/cyclejs-calendar) ⚠️ Archived - Calendar component for Cycle.js. Try it online [here](http://enten.github.io/cyclejs-calendar/example).
 * [cyclejs-community/cycle-svg-pan-and-zoom ★4](https://github.com/cyclejs-community/cycle-svg-pan-and-zoom) ⭐ 5 | 🐛 3 | 🌐 JavaScript | 📅 2016-11-05 - A Google Maps style SVG pan and zoom component for Cycle.js
-* [tommy-the-runner/cyclejs-ace-editor ★0](https://github.com/tommy-the-runner/cyclejs-ace-editor) ⭐ 2 | 🐛 0 | 🌐 JavaScript | 📅 2017-02-27 - Cycle.js intergration with Ace Editor using [brace](https://github.com/thlorenz/brace) ⭐ 1,066 | 🐛 77 | 🌐 JavaScript | 📅 2023-02-09. Check an example [here](https://tommy-the-runner.github.io/cyclejs-ace-editor/).
+* [tommy-the-runner/cyclejs-ace-editor ★0](https://github.com/tommy-the-runner/cyclejs-ace-editor) ⭐ 2 | 🐛 0 | 🌐 JavaScript | 📅 2017-02-27 - Cycle.js intergration with Ace Editor using [brace](https://github.com/thlorenz/brace) ⭐ 1,065 | 🐛 77 | 🌐 JavaScript | 📅 2023-02-09. Check an example [here](https://tommy-the-runner.github.io/cyclejs-ace-editor/).
 * [mciparelli/cyclejs-gravatar ★0](https://github.com/mciparelli/cyclejs-gravatar) ⭐ 0 | 🐛 0 | 🌐 JavaScript | 📅 2016-01-24 - Cycle.js component for rendering a gravatar profile image.
 
 ## Community
@@ -205,4 +205,4 @@ A collection of awesome Cycle.js tools, resources, videos and shiny things.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
