@@ -1,6 +1,6 @@
 # Awesome cyclejs with stars
 
-## Awesome Cycle.js [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 507,023 | 🐛 106 | 📅 2026-09-02
+## Awesome Cycle.js [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 507,362 | 🐛 106 | 📅 2026-09-02
 
 A collection of awesome Cycle.js tools, resources, videos and shiny things.
 
@@ -125,7 +125,7 @@ A collection of awesome Cycle.js tools, resources, videos and shiny things.
 * [cyclejs/cycle-notification-driver ★20](https://github.com/cyclejs/cycle-notification-driver) ⭐ 21 | 🐛 2 | 🌐 JavaScript | 📅 2016-03-31 - A Cycle.js Driver for showing and responding to HTML5 Notifications.
 * [dralletje/cycle-firebase ★21](https://github.com/dralletje/cycle-firebase) ⭐ 21 | 🐛 3 | 🌐 JavaScript | 📅 2016-03-13 - A Cycle.js Driver for Firebase
 * [goodmind/cycle-telegram ★15](https://github.com/goodmind/cycle-telegram) ⭐ 20 | 🐛 5 | 🌐 TypeScript | 📅 2017-03-19 - A Cycle.js Driver for Telegram Bot API
-* [benji6/cycle-audio-graph ★12](https://github.com/benji6/cycle-audio-graph) ⭐ 19 | 🐛 0 | 🌐 JavaScript | 📅 2026-03-02 - A Cycle.js Driver for manipulating the Web Audio API using [virtual-audio-graph](https://github.com/benji6/virtual-audio-graph) ⭐ 368 | 🐛 9 | 🌐 TypeScript | 📅 2026-07-25
+* [benji6/cycle-audio-graph ★12](https://github.com/benji6/cycle-audio-graph) ⭐ 19 | 🐛 0 | 🌐 JavaScript | 📅 2026-03-02 - A Cycle.js Driver for manipulating the Web Audio API using [virtual-audio-graph](https://github.com/benji6/virtual-audio-graph) ⭐ 369 | 🐛 9 | 🌐 TypeScript | 📅 2026-07-25
 * [rkrupinski/cyclejs-animated-localstorage ★12](https://github.com/rkrupinski/cyclejs-animated-localstorage) ⭐ 17 | 🐛 0 | 🌐 JavaScript | 📅 2016-06-21 - A Cycle.js driver for animating (srsly) localStorage.
 * [r7kamura/cycle-fetcher-driver ★14](https://github.com/r7kamura/cycle-fetcher-driver) ⭐ 14 | 🐛 0 | 🌐 JavaScript | 📅 2015-10-08 - A Cycle.js Driver for making HTTP requests using [stackable-fetcher](https://github.com/r7kamura/stackable-fetcher) ⭐ 19 | 🐛 0 | 🌐 JavaScript | 📅 2016-01-30.
 * [Avalander/cycle-idb ★4](https://github.com/Avalander/cycle-idb) ⚠️ Archived - A Cycle.js driver wrapping IndexedDB
@@ -180,7 +180,7 @@ A collection of awesome Cycle.js tools, resources, videos and shiny things.
 ### Testing
 
 * [erykpiast/cyclejs-mock ★22](https://github.com/erykpiast/cyclejs-mock) ⭐ 22 | 🐛 0 | 🌐 JavaScript | 📅 2015-05-19 - Utility for testing applications based on CycleJS framework.
-* [jeysal/pretty-format-snabbdom ★0](https://github.com/jeysal/pretty-format-snabbdom) ⭐ 6 | 🐛 14 | 🌐 JavaScript | 📅 2022-12-09 - A [pretty-format](https://github.com/facebook/jest/tree/master/packages/pretty-format) ⭐ 45,459 | 🐛 192 | 🌐 TypeScript | 📅 2026-09-16 ([Jest](https://facebook.github.io/jest/) snapshot) plugin for rendering snapshots of snabbdom VNodes as nicely as those of React elements
+* [jeysal/pretty-format-snabbdom ★0](https://github.com/jeysal/pretty-format-snabbdom) ⭐ 6 | 🐛 14 | 🌐 JavaScript | 📅 2022-12-09 - A [pretty-format](https://github.com/facebook/jest/tree/master/packages/pretty-format) ⭐ 45,460 | 🐛 191 | 🌐 TypeScript | 📅 2026-09-18 ([Jest](https://facebook.github.io/jest/) snapshot) plugin for rendering snapshots of snabbdom VNodes as nicely as those of React elements
 
 ### Debugging
 
@@ -205,4 +205,4 @@ A collection of awesome Cycle.js tools, resources, videos and shiny things.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
