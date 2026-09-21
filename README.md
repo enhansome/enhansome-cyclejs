@@ -1,6 +1,6 @@
 # Awesome cyclejs with stars
 
-## Awesome Cycle.js [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 508,078 | 🐛 106 | 📅 2026-09-02
+## Awesome Cycle.js [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 508,510 | 🐛 106 | 📅 2026-09-02
 
 A collection of awesome Cycle.js tools, resources, videos and shiny things.
 
@@ -99,7 +99,7 @@ A collection of awesome Cycle.js tools, resources, videos and shiny things.
 
 ### CLI
 
-* [cyclejs-community/create-cycle-app ★160](https://github.com/cyclejs-community/create-cycle-app) ⭐ 238 | 🐛 35 | 🌐 JavaScript | 📅 2020-05-25 - Create Cycle.js apps with no build configuration.
+* [cyclejs-community/create-cycle-app ★160](https://github.com/cyclejs-community/create-cycle-app) ⭐ 237 | 🐛 35 | 🌐 JavaScript | 📅 2020-05-25 - Create Cycle.js apps with no build configuration.
 
 ## Libraries
 
@@ -180,7 +180,7 @@ A collection of awesome Cycle.js tools, resources, videos and shiny things.
 ### Testing
 
 * [erykpiast/cyclejs-mock ★22](https://github.com/erykpiast/cyclejs-mock) ⭐ 22 | 🐛 0 | 🌐 JavaScript | 📅 2015-05-19 - Utility for testing applications based on CycleJS framework.
-* [jeysal/pretty-format-snabbdom ★0](https://github.com/jeysal/pretty-format-snabbdom) ⭐ 6 | 🐛 14 | 🌐 JavaScript | 📅 2022-12-09 - A [pretty-format](https://github.com/facebook/jest/tree/master/packages/pretty-format) ⭐ 45,461 | 🐛 190 | 🌐 TypeScript | 📅 2026-09-20 ([Jest](https://facebook.github.io/jest/) snapshot) plugin for rendering snapshots of snabbdom VNodes as nicely as those of React elements
+* [jeysal/pretty-format-snabbdom ★0](https://github.com/jeysal/pretty-format-snabbdom) ⭐ 6 | 🐛 14 | 🌐 JavaScript | 📅 2022-12-09 - A [pretty-format](https://github.com/facebook/jest/tree/master/packages/pretty-format) ⭐ 45,462 | 🐛 193 | 🌐 TypeScript | 📅 2026-09-21 ([Jest](https://facebook.github.io/jest/) snapshot) plugin for rendering snapshots of snabbdom VNodes as nicely as those of React elements
 
 ### Debugging
 
@@ -205,4 +205,4 @@ A collection of awesome Cycle.js tools, resources, videos and shiny things.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
