@@ -2348,7 +2348,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T16:00:56.586Z",
+    "last_updated": "2026-09-22T14:10:50.516Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Cycle.js resources",
@@ -2357,7 +2357,7 @@
       "language": null,
       "license": null,
       "last_commit": "2020-12-07T11:32:59Z",
-      "open_issues": 1,
+      "open_issues": 2,
       "owner": "cyclejs-community",
       "repo": "awesome-cyclejs",
       "stars": 822,
