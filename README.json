@@ -21,7 +21,7 @@
                 "open_issues": 132,
                 "owner": "cyclejs",
                 "repo": "cyclejs",
-                "stars": 10224,
+                "stars": 10223,
                 "topics": [
                   "cyclejs",
                   "framework",
@@ -50,7 +50,7 @@
                 "open_issues": 36,
                 "owner": "staltz",
                 "repo": "rxmarbles",
-                "stars": 4195,
+                "stars": 4194,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:59:08.930Z"
@@ -679,7 +679,7 @@
                 "open_issues": 132,
                 "owner": "cyclejs",
                 "repo": "cyclejs",
-                "stars": 10224,
+                "stars": 10223,
                 "topics": [
                   "cyclejs",
                   "framework",
@@ -708,7 +708,7 @@
                 "open_issues": 132,
                 "owner": "cyclejs",
                 "repo": "cyclejs",
-                "stars": 10224,
+                "stars": 10223,
                 "topics": [
                   "cyclejs",
                   "framework",
@@ -737,7 +737,7 @@
                 "open_issues": 132,
                 "owner": "cyclejs",
                 "repo": "cyclejs",
-                "stars": 10224,
+                "stars": 10223,
                 "topics": [
                   "cyclejs",
                   "framework",
@@ -766,7 +766,7 @@
                 "open_issues": 132,
                 "owner": "cyclejs",
                 "repo": "cyclejs",
-                "stars": 10224,
+                "stars": 10223,
                 "topics": [
                   "cyclejs",
                   "framework",
@@ -795,7 +795,7 @@
                 "open_issues": 132,
                 "owner": "cyclejs",
                 "repo": "cyclejs",
-                "stars": 10224,
+                "stars": 10223,
                 "topics": [
                   "cyclejs",
                   "framework",
@@ -1354,31 +1354,6 @@
             },
             {
               "node_type": "item",
-              "title": "mrpierrot/cycle-node-http-server ★4",
-              "description": "A Cycle.js driver for Node.js HTTP(S) server",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "description": "Driver and router component for manage HTTP/HTTPS services with Cycle.js",
-                "homepage": null,
-                "id": 94106067,
-                "language": "JavaScript",
-                "license": "NOASSERTION",
-                "last_commit": "2017-09-06T08:28:17Z",
-                "open_issues": 1,
-                "owner": "mrpierrot",
-                "repo": "cycle-node-http-server",
-                "stars": 6,
-                "topics": [
-                  "cyclejs",
-                  "http-server",
-                  "nodejs"
-                ]
-              },
-              "first_seen": "2026-08-28T20:59:08.930Z"
-            },
-            {
-              "node_type": "item",
               "title": "mjyc/cycle-posenet-driver ★1",
               "description": "A Cycle.js drivers for pose detection using TensorFlow.js-powered PoseNet",
               "children": [],
@@ -1451,6 +1426,31 @@
                   "functional-programming",
                   "reactive-programming",
                   "robotics"
+                ]
+              },
+              "first_seen": "2026-08-28T20:59:08.930Z"
+            },
+            {
+              "node_type": "item",
+              "title": "mrpierrot/cycle-node-http-server ★4",
+              "description": "A Cycle.js driver for Node.js HTTP(S) server",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "description": "Driver and router component for manage HTTP/HTTPS services with Cycle.js",
+                "homepage": null,
+                "id": 94106067,
+                "language": "JavaScript",
+                "license": "NOASSERTION",
+                "last_commit": "2017-09-06T08:28:17Z",
+                "open_issues": 1,
+                "owner": "mrpierrot",
+                "repo": "cycle-node-http-server",
+                "stars": 5,
+                "topics": [
+                  "cyclejs",
+                  "http-server",
+                  "nodejs"
                 ]
               },
               "first_seen": "2026-08-28T20:59:08.930Z"
@@ -1650,7 +1650,7 @@
                 "open_issues": 5,
                 "owner": "ohanhi",
                 "repo": "hyperscript-helpers",
-                "stars": 632,
+                "stars": 633,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:59:08.930Z"
@@ -2037,7 +2037,7 @@
                 "open_issues": 16,
                 "owner": "wyqydsyq",
                 "repo": "unicycle",
-                "stars": 11,
+                "stars": 10,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:59:08.930Z"
@@ -2348,7 +2348,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T14:44:09.923Z",
+    "last_updated": "2026-09-26T13:52:51.587Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Cycle.js resources",
