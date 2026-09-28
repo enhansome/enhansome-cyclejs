@@ -2348,7 +2348,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T14:49:34.342Z",
+    "last_updated": "2026-09-28T17:48:34.790Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Cycle.js resources",
@@ -2356,14 +2356,14 @@
       "id": 38357107,
       "language": null,
       "license": null,
-      "last_commit": "2020-12-07T11:32:59Z",
-      "open_issues": 2,
+      "last_commit": "2026-09-28T07:19:54Z",
+      "open_issues": 1,
       "owner": "cyclejs-community",
       "repo": "awesome-cyclejs",
       "stars": 822,
       "topics": []
     },
-    "original_repository_sha": "b1dec7ef9021766ebc41c3dda750362e3012c0af",
+    "original_repository_sha": "97d6547b46b738f74ce60500a66b881a49552a8b",
     "enhanced_repository": "enhansome/enhansome-cyclejs",
     "enhanced_repository_description": null,
     "title": "Awesome cyclejs with stars"

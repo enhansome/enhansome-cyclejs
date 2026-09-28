@@ -1,6 +1,6 @@
 # Awesome cyclejs with stars
 
-## Awesome Cycle.js [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 511,275 | 🐛 106 | 📅 2026-09-02
+## Awesome Cycle.js [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 511,904 | 🐛 106 | 📅 2026-09-02
 
 A collection of awesome Cycle.js tools, resources, videos and shiny things.
 
@@ -41,7 +41,7 @@ A collection of awesome Cycle.js tools, resources, videos and shiny things.
 * [Unidirectional data flow architectures](https://vimeo.com/168652278) - Presentation AtTheFrontend Conference by [Andre Staltz](https://twitter.com/andrestaltz)
 * [Cycle.js and functional reactive user interfaces](https://www.youtube.com/watch?v=uNZnftSksYg) - Presentation at ReactiveConf 2015 by [Andre Staltz](http://twitter.com/andrestaltz)
 * [Intro to Functional Reactive Programming with Cycle.js](https://www.youtube.com/watch?v=6_ETUyh0tns) - Presentation by [Nick Johnstone](https://twitter.com/widdnz)
-* [Cycle.js Fundamentals](https://egghead.io/series/cycle-js-fundamentals) - Playlist at [egghead.io](https://egghead.io)
+* [Cycle.js Fundamentals](https://egghead.io/courses/cycle-js-fundamentals) - Playlist at [egghead.io](https://egghead.io)
 * [Cycle.js was built to solve problems](https://www.youtube.com/watch?v=Rj8ZTRVka4E) - by Andre Staltz at [Frontend.fi](http://frontend.fi/)
 * [Brains as Building Blocks](https://www.youtube.com/watch?v=1ToJ7cxb1R8) - by Andre Staltz at [CycleConf 2016](http://cycleconf.com/)
 * [Back to the Future, Hot reloading with Cycle.js](https://www.youtube.com/watch?v=rbrnyC5fXMM) - by Nick Johnstone at [CycleConf 2016](http://cycleconf.com/)
@@ -134,7 +134,7 @@ A collection of awesome Cycle.js tools, resources, videos and shiny things.
 * [EnigmaCurry/cycle-deepstream ★8](https://github.com/EnigmaCurry/cycle-deepstream) ⭐ 10 | 🐛 0 | 🌐 TypeScript | 📅 2018-06-18 - A Cycle.js driver for [deepstream.io](https://deepstream.io)
 * [cyclejs-community/cycle-keyboard ★9](https://github.com/cyclejs-community/cycle-keyboard) ⭐ 9 | 🐛 8 | 🌐 TypeScript | 📅 2017-08-15 - A keyboard driver for cycle.js
 * [jessaustin/cycle-sse-driver ★6](https://github.com/jessaustin/cycle-sse-driver) ⭐ 6 | 🐛 0 | 🌐 CoffeeScript | 📅 2016-01-28 - Source driver for Server-Sent Events/EventSource.
-* [mjyc/cycle-posenet-driver ★1](https://github.com/mjyc/cycle-robot-drivers/tree/master/3rdparty/cycle-posenet-driver) ⭐ 6 | 🐛 1 | 🌐 TypeScript | 📅 2020-09-03 - A Cycle.js drivers for pose detection using [TensorFlow.js](https://js.tensorflow.org/)-powered [PoseNet](https://github.com/tensorflow/tfjs-models/tree/master/posenet) ⭐ 14,812 | 🐛 280 | 🌐 TypeScript | 📅 2026-06-23
+* [mjyc/cycle-posenet-driver ★1](https://github.com/mjyc/cycle-robot-drivers/tree/master/3rdparty/cycle-posenet-driver) ⭐ 6 | 🐛 1 | 🌐 TypeScript | 📅 2020-09-03 - A Cycle.js drivers for pose detection using [TensorFlow.js](https://js.tensorflow.org/)-powered [PoseNet](https://github.com/tensorflow/tfjs-models/tree/master/posenet) ⭐ 14,811 | 🐛 280 | 🌐 TypeScript | 📅 2026-06-23
 * [@cycle-robot-drivers/speech ★1](https://github.com/mjyc/cycle-robot-drivers/tree/master/speech) ⭐ 6 | 🐛 1 | 🌐 TypeScript | 📅 2020-09-03 - Cycle.js drivers for speech synthesis and recognition using [Web Speech API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API)
 * [@cycle-robot-drivers/sound ★1](https://github.com/mjyc/cycle-robot-drivers/tree/master/sound) ⭐ 6 | 🐛 1 | 🌐 TypeScript | 📅 2020-09-03 - A Cycle.js driver for playing sounds using [HTMLAudioElement](https://developer.mozilla.org/en-US/docs/Web/API/HTMLAudioElement)
 * [mrpierrot/cycle-node-http-server ★4](https://github.com/mrpierrot/cycle-node-http-server) ⚠️ Archived - A Cycle.js driver for Node.js HTTP(S) server
@@ -180,7 +180,7 @@ A collection of awesome Cycle.js tools, resources, videos and shiny things.
 ### Testing
 
 * [erykpiast/cyclejs-mock ★22](https://github.com/erykpiast/cyclejs-mock) ⭐ 22 | 🐛 0 | 🌐 JavaScript | 📅 2015-05-19 - Utility for testing applications based on CycleJS framework.
-* [jeysal/pretty-format-snabbdom ★0](https://github.com/jeysal/pretty-format-snabbdom) ⭐ 6 | 🐛 14 | 🌐 JavaScript | 📅 2022-12-09 - A [pretty-format](https://github.com/facebook/jest/tree/master/packages/pretty-format) ⭐ 45,465 | 🐛 213 | 🌐 TypeScript | 📅 2026-09-24 ([Jest](https://facebook.github.io/jest/) snapshot) plugin for rendering snapshots of snabbdom VNodes as nicely as those of React elements
+* [jeysal/pretty-format-snabbdom ★0](https://github.com/jeysal/pretty-format-snabbdom) ⭐ 6 | 🐛 14 | 🌐 JavaScript | 📅 2022-12-09 - A [pretty-format](https://github.com/facebook/jest/tree/master/packages/pretty-format) ⭐ 45,464 | 🐛 218 | 🌐 TypeScript | 📅 2026-09-27 ([Jest](https://jestjs.io/) snapshot) plugin for rendering snapshots of snabbdom VNodes as nicely as those of React elements
 
 ### Debugging
 
@@ -205,4 +205,4 @@ A collection of awesome Cycle.js tools, resources, videos and shiny things.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
