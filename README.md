@@ -1,6 +1,6 @@
 # Awesome cyclejs with stars
 
-## Awesome Cycle.js [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 512,307 | 🐛 106 | 📅 2026-09-02
+## Awesome Cycle.js [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 512,749 | 🐛 106 | 📅 2026-09-02
 
 A collection of awesome Cycle.js tools, resources, videos and shiny things.
 
@@ -62,7 +62,7 @@ A collection of awesome Cycle.js tools, resources, videos and shiny things.
 
 ### Example Applications
 
-* [**cyclejs/cycle-examples**](https://github.com/cyclejs/cyclejs/tree/master/examples) ⭐ 10,224 | 🐛 132 | 🌐 TypeScript | 📅 2026-06-09 - Official collection of small Cycle.js examples
+* [**cyclejs/cycle-examples**](https://github.com/cyclejs/cyclejs/tree/master/examples) ⭐ 10,225 | 🐛 132 | 🌐 TypeScript | 📅 2026-06-09 - Official collection of small Cycle.js examples
 * [**staltz/rxmarbles ★2,577**](https://github.com/staltz/rxmarbles) ⚠️ Archived - Interactive diagrams of Rx Observables <http://rxmarbles.com/>
 * [**staltz/matrixmultiplication.xyz ★548**](https://github.com/staltz/matrixmultiplication.xyz) ⭐ 1,219 | 🐛 10 | 🌐 TypeScript | 📅 2022-01-21 - A interactive matrix multiplication [webapp](http://matrixmultiplication.xyz/)
 * [staltz/mmmmm-mobile ★124](https://github.com/staltz/mmmmm-mobile/) ⭐ 953 | 🐛 13 | 🌐 TypeScript | 📅 2024-08-13 - A React Native + Cycle.js app to implement a social network on Secure Scuttlebutt networks
@@ -105,11 +105,11 @@ A collection of awesome Cycle.js tools, resources, videos and shiny things.
 
 ### Drivers
 
-* [@cycle/http](https://github.com/cyclejs/cyclejs/tree/master/http) ⭐ 10,224 | 🐛 132 | 🌐 TypeScript | 📅 2026-06-09 - A Cycle.js Driver for making HTTP requests, based on superagent.
-* [**@cycle/dom**](https://github.com/cyclejs/cyclejs/tree/master/dom) ⭐ 10,224 | 🐛 132 | 🌐 TypeScript | 📅 2026-06-09 - A Cycle.js driver to enable interaction with the DOM. The driver is based on snabbdom as the Virtual DOM library.
-* [@cycle/history](https://github.com/cyclejs/cyclejs/tree/master/history) ⭐ 10,224 | 🐛 132 | 🌐 TypeScript | 📅 2026-06-09 - This is the standard Cycle.js driver for dealing with the [History API](https://developer.mozilla.org/en-US/docs/Web/API/History_API)
-* [@cycle/isolate](https://github.com/cyclejs/cyclejs/tree/master/isolate) ⭐ 10,224 | 🐛 132 | 🌐 TypeScript | 📅 2026-06-09 - A utility function to make scoped dataflow components in Cycle.js.
-* [@cycle/time](https://github.com/cyclejs/cyclejs/tree/master/time) ⭐ 10,224 | 🐛 132 | 🌐 TypeScript | 📅 2026-06-09 - Fast and beautiful tests and time management for Cycle.js
+* [@cycle/http](https://github.com/cyclejs/cyclejs/tree/master/http) ⭐ 10,225 | 🐛 132 | 🌐 TypeScript | 📅 2026-06-09 - A Cycle.js Driver for making HTTP requests, based on superagent.
+* [**@cycle/dom**](https://github.com/cyclejs/cyclejs/tree/master/dom) ⭐ 10,225 | 🐛 132 | 🌐 TypeScript | 📅 2026-06-09 - A Cycle.js driver to enable interaction with the DOM. The driver is based on snabbdom as the Virtual DOM library.
+* [@cycle/history](https://github.com/cyclejs/cyclejs/tree/master/history) ⭐ 10,225 | 🐛 132 | 🌐 TypeScript | 📅 2026-06-09 - This is the standard Cycle.js driver for dealing with the [History API](https://developer.mozilla.org/en-US/docs/Web/API/History_API)
+* [@cycle/isolate](https://github.com/cyclejs/cyclejs/tree/master/isolate) ⭐ 10,225 | 🐛 132 | 🌐 TypeScript | 📅 2026-06-09 - A utility function to make scoped dataflow components in Cycle.js.
+* [@cycle/time](https://github.com/cyclejs/cyclejs/tree/master/time) ⭐ 10,225 | 🐛 132 | 🌐 TypeScript | 📅 2026-06-09 - Fast and beautiful tests and time management for Cycle.js
 * [cyclejs-community/redux-cycles ★599](https://github.com/cyclejs-community/redux-cycles) ⭐ 739 | 🐛 9 | 🌐 JavaScript | 📅 2018-01-15 - A Redux middleware that allows you to handle actions lifecycle with Cycle.js
 * [cyclejs-community/cyclic-router ★90](https://github.com/cyclejs-community/cyclic-router) ⭐ 109 | 🐛 29 | 🌐 JavaScript | 📅 2018-12-13 - Router Driver built for Cycle.js
 * [@cycle/storage](https://github.com/cyclejs/storage) ⭐ 51 | 🐛 7 | 🌐 TypeScript | 📅 2020-12-17 - A Cycle.js Driver for using localStorage and sessionStorage.
@@ -134,10 +134,10 @@ A collection of awesome Cycle.js tools, resources, videos and shiny things.
 * [EnigmaCurry/cycle-deepstream ★8](https://github.com/EnigmaCurry/cycle-deepstream) ⭐ 10 | 🐛 0 | 🌐 TypeScript | 📅 2018-06-18 - A Cycle.js driver for [deepstream.io](https://deepstream.io)
 * [cyclejs-community/cycle-keyboard ★9](https://github.com/cyclejs-community/cycle-keyboard) ⭐ 9 | 🐛 8 | 🌐 TypeScript | 📅 2017-08-15 - A keyboard driver for cycle.js
 * [jessaustin/cycle-sse-driver ★6](https://github.com/jessaustin/cycle-sse-driver) ⭐ 6 | 🐛 0 | 🌐 CoffeeScript | 📅 2016-01-28 - Source driver for Server-Sent Events/EventSource.
-* [mjyc/cycle-posenet-driver ★1](https://github.com/mjyc/cycle-robot-drivers/tree/master/3rdparty/cycle-posenet-driver) ⭐ 6 | 🐛 1 | 🌐 TypeScript | 📅 2020-09-03 - A Cycle.js drivers for pose detection using [TensorFlow.js](https://js.tensorflow.org/)-powered [PoseNet](https://github.com/tensorflow/tfjs-models/tree/master/posenet) ⭐ 14,811 | 🐛 280 | 🌐 TypeScript | 📅 2026-06-23
+* [mrpierrot/cycle-node-http-server ★4](https://github.com/mrpierrot/cycle-node-http-server) ⚠️ Archived - A Cycle.js driver for Node.js HTTP(S) server
+* [mjyc/cycle-posenet-driver ★1](https://github.com/mjyc/cycle-robot-drivers/tree/master/3rdparty/cycle-posenet-driver) ⭐ 6 | 🐛 1 | 🌐 TypeScript | 📅 2020-09-03 - A Cycle.js drivers for pose detection using [TensorFlow.js](https://js.tensorflow.org/)-powered [PoseNet](https://github.com/tensorflow/tfjs-models/tree/master/posenet) ⭐ 14,812 | 🐛 280 | 🌐 TypeScript | 📅 2026-06-23
 * [@cycle-robot-drivers/speech ★1](https://github.com/mjyc/cycle-robot-drivers/tree/master/speech) ⭐ 6 | 🐛 1 | 🌐 TypeScript | 📅 2020-09-03 - Cycle.js drivers for speech synthesis and recognition using [Web Speech API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API)
 * [@cycle-robot-drivers/sound ★1](https://github.com/mjyc/cycle-robot-drivers/tree/master/sound) ⭐ 6 | 🐛 1 | 🌐 TypeScript | 📅 2020-09-03 - A Cycle.js driver for playing sounds using [HTMLAudioElement](https://developer.mozilla.org/en-US/docs/Web/API/HTMLAudioElement)
-* [mrpierrot/cycle-node-http-server ★4](https://github.com/mrpierrot/cycle-node-http-server) ⚠️ Archived - A Cycle.js driver for Node.js HTTP(S) server
 * [garrydzeng/cycle-page ★3](https://github.com/garrydzeng/cycle-page) ⭐ 4 | 🐛 1 | 🌐 JavaScript | 📅 2017-03-07 - A tiny client-side router for Cycle.js
 * [jbowden1982/cycle-socketcluster ★5](https://github.com/jbowden1982/cycle-socketcluster) ⭐ 4 | 🐛 0 | 🌐 JavaScript | 📅 2016-09-06 - A socketcluster driver for Cycle.js
 * [helmoski/cycle-selection-driver](https://github.com/helmoski/cycle-selection-driver) ⭐ 4 | 🐛 13 | 🌐 TypeScript | 📅 2023-01-05 - A Cycle.js driver for interacting with the [Selection API](https://developer.mozilla.org/en-US/docs/Web/API/Selection)
@@ -170,7 +170,7 @@ A collection of awesome Cycle.js tools, resources, videos and shiny things.
 * [cmdv/cycle-webpack-boilerplate ★101](https://github.com/Cmdv/cycle-webpack-boilerplate) ⭐ 94 | 🐛 7 | 🌐 JavaScript | 📅 2016-12-28 - Cycle app with routing, state handling and tests.
 * [cycle-community/typescript-starter-cycle ★22](https://github.com/cyclejs-community/typescript-starter-cycle) ⭐ 36 | 🐛 2 | 🌐 TypeScript | 📅 2017-10-22 - A simple project for getting started with TypeScript in cycle.js, using Webpack. Has settings for Visual Studio Code as candy.
 * [Widdershin/cycle-hot-reloading-example ★27](https://github.com/Widdershin/cycle-hot-reloading-example) ⭐ 26 | 🐛 1 | 🌐 JavaScript | 📅 2016-03-19 - A Cycle.js starter project with hot reloading using browserify-hmr
-* [wyqydsyq/unicycle ★6](https://github.com/wyqydsyq/unicycle) ⭐ 10 | 🐛 16 | 🌐 TypeScript | 📅 2023-01-23 - A boilerplate universal Cycle app running on a Koa.js server with HMR and ServiceWorkers via Webpack
+* [wyqydsyq/unicycle ★6](https://github.com/wyqydsyq/unicycle) ⭐ 11 | 🐛 16 | 🌐 TypeScript | 📅 2023-01-23 - A boilerplate universal Cycle app running on a Koa.js server with HMR and ServiceWorkers via Webpack
 * [syarul/cycle-iso ★4](https://github.com/syarul/cycle-iso) ⭐ 4 | 🐛 0 | 🌐 JavaScript | 📅 2016-05-22 - A barebone boilerplate Cycle app with data stream base on promises and  fetched with Falcor.js
 * [Frikki/generator-cyclejs ★2](https://github.com/Frikki/generator-cyclejs) ⭐ 2 | 🐛 2 | 🌐 JavaScript | 📅 2023-12-15 - Scaffold out a Cycle.js Nested Dialogue module using Yeoman.
 * [snowpack-cycle](https://github.com/rajasegar/snowpack-cycle) ⭐ 2 | 🐛 0 | 🌐 JavaScript | 📅 2020-12-05 - Snowpack app template to create Cycle.js projects with create-snowpack-app
@@ -180,7 +180,7 @@ A collection of awesome Cycle.js tools, resources, videos and shiny things.
 ### Testing
 
 * [erykpiast/cyclejs-mock ★22](https://github.com/erykpiast/cyclejs-mock) ⭐ 22 | 🐛 0 | 🌐 JavaScript | 📅 2015-05-19 - Utility for testing applications based on CycleJS framework.
-* [jeysal/pretty-format-snabbdom ★0](https://github.com/jeysal/pretty-format-snabbdom) ⭐ 6 | 🐛 14 | 🌐 JavaScript | 📅 2022-12-09 - A [pretty-format](https://github.com/facebook/jest/tree/master/packages/pretty-format) ⭐ 45,465 | 🐛 220 | 🌐 TypeScript | 📅 2026-09-27 ([Jest](https://jestjs.io/) snapshot) plugin for rendering snapshots of snabbdom VNodes as nicely as those of React elements
+* [jeysal/pretty-format-snabbdom ★0](https://github.com/jeysal/pretty-format-snabbdom) ⭐ 6 | 🐛 14 | 🌐 JavaScript | 📅 2022-12-09 - A [pretty-format](https://github.com/facebook/jest/tree/master/packages/pretty-format) ⭐ 45,459 | 🐛 221 | 🌐 TypeScript | 📅 2026-09-27 ([Jest](https://jestjs.io/) snapshot) plugin for rendering snapshots of snabbdom VNodes as nicely as those of React elements
 
 ### Debugging
 
@@ -205,4 +205,4 @@ A collection of awesome Cycle.js tools, resources, videos and shiny things.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
