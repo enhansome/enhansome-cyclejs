@@ -1156,8 +1156,8 @@
                 "id": 45038406,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-03-02T10:01:20Z",
-                "open_issues": 0,
+                "last_commit": "2026-10-01T09:05:50Z",
+                "open_issues": 1,
                 "owner": "benji6",
                 "repo": "cycle-audio-graph",
                 "stars": 19,
@@ -2348,7 +2348,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T16:05:07.567Z",
+    "last_updated": "2026-10-01T16:41:24.999Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Cycle.js resources",
