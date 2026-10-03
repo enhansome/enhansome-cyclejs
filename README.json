@@ -92,7 +92,7 @@
                 "open_issues": 13,
                 "owner": "staltz",
                 "repo": "manyverse",
-                "stars": 953,
+                "stars": 954,
                 "topics": [
                   "cyclejs",
                   "manyverse",
@@ -121,7 +121,7 @@
                 "open_issues": 1,
                 "owner": "unite-network",
                 "repo": "component-check",
-                "stars": 465,
+                "stars": 464,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:59:08.930Z"
@@ -163,7 +163,7 @@
                 "open_issues": 6,
                 "owner": "cyclejs",
                 "repo": "todomvc-cycle",
-                "stars": 237,
+                "stars": 236,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:59:08.930Z"
@@ -856,7 +856,7 @@
                 "open_issues": 29,
                 "owner": "cyclejs-community",
                 "repo": "cyclic-router",
-                "stars": 109,
+                "stars": 108,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:59:08.930Z"
@@ -2348,7 +2348,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T15:57:57.110Z",
+    "last_updated": "2026-10-03T04:39:01.557Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Cycle.js resources",
