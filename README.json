@@ -21,7 +21,7 @@
                 "open_issues": 132,
                 "owner": "cyclejs",
                 "repo": "cyclejs",
-                "stars": 10224,
+                "stars": 10223,
                 "topics": [
                   "cyclejs",
                   "framework",
@@ -160,7 +160,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2018-07-10T08:24:15Z",
-                "open_issues": 6,
+                "open_issues": 5,
                 "owner": "cyclejs",
                 "repo": "todomvc-cycle",
                 "stars": 236,
@@ -679,7 +679,7 @@
                 "open_issues": 132,
                 "owner": "cyclejs",
                 "repo": "cyclejs",
-                "stars": 10224,
+                "stars": 10223,
                 "topics": [
                   "cyclejs",
                   "framework",
@@ -708,7 +708,7 @@
                 "open_issues": 132,
                 "owner": "cyclejs",
                 "repo": "cyclejs",
-                "stars": 10224,
+                "stars": 10223,
                 "topics": [
                   "cyclejs",
                   "framework",
@@ -737,7 +737,7 @@
                 "open_issues": 132,
                 "owner": "cyclejs",
                 "repo": "cyclejs",
-                "stars": 10224,
+                "stars": 10223,
                 "topics": [
                   "cyclejs",
                   "framework",
@@ -766,7 +766,7 @@
                 "open_issues": 132,
                 "owner": "cyclejs",
                 "repo": "cyclejs",
-                "stars": 10224,
+                "stars": 10223,
                 "topics": [
                   "cyclejs",
                   "framework",
@@ -795,7 +795,7 @@
                 "open_issues": 132,
                 "owner": "cyclejs",
                 "repo": "cyclejs",
-                "stars": 10224,
+                "stars": 10223,
                 "topics": [
                   "cyclejs",
                   "framework",
@@ -1650,7 +1650,7 @@
                 "open_issues": 5,
                 "owner": "ohanhi",
                 "repo": "hyperscript-helpers",
-                "stars": 633,
+                "stars": 632,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:59:08.930Z"
@@ -2348,7 +2348,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T14:58:36.152Z",
+    "last_updated": "2026-10-05T18:51:08.215Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Cycle.js resources",
