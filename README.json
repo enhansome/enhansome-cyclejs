@@ -50,7 +50,7 @@
                 "open_issues": 36,
                 "owner": "staltz",
                 "repo": "rxmarbles",
-                "stars": 4195,
+                "stars": 4194,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:59:08.930Z"
@@ -2348,7 +2348,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T16:33:55.920Z",
+    "last_updated": "2026-10-10T15:34:04.304Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Cycle.js resources",
