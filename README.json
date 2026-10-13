@@ -1270,8 +1270,8 @@
                 "id": 108122031,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-12T19:04:54Z",
-                "open_issues": 3,
+                "last_commit": "2026-10-13T11:33:32Z",
+                "open_issues": 2,
                 "owner": "unhappychoice",
                 "repo": "cycle-pusher",
                 "stars": 11,
@@ -2348,7 +2348,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T19:18:40.615Z",
+    "last_updated": "2026-10-13T17:07:38.256Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Cycle.js resources",
