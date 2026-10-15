@@ -343,7 +343,7 @@
                 "open_issues": 0,
                 "owner": "wmaurer",
                 "repo": "cyclejs-fractals",
-                "stars": 22,
+                "stars": 21,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:59:08.930Z"
@@ -2348,7 +2348,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T14:39:41.650Z",
+    "last_updated": "2026-10-15T14:24:21.132Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Cycle.js resources",
