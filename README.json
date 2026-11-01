@@ -21,7 +21,7 @@
                 "open_issues": 139,
                 "owner": "cyclejs",
                 "repo": "cyclejs",
-                "stars": 10226,
+                "stars": 10227,
                 "topics": [
                   "cyclejs",
                   "framework",
@@ -679,7 +679,7 @@
                 "open_issues": 139,
                 "owner": "cyclejs",
                 "repo": "cyclejs",
-                "stars": 10226,
+                "stars": 10227,
                 "topics": [
                   "cyclejs",
                   "framework",
@@ -708,7 +708,7 @@
                 "open_issues": 139,
                 "owner": "cyclejs",
                 "repo": "cyclejs",
-                "stars": 10226,
+                "stars": 10227,
                 "topics": [
                   "cyclejs",
                   "framework",
@@ -737,7 +737,7 @@
                 "open_issues": 139,
                 "owner": "cyclejs",
                 "repo": "cyclejs",
-                "stars": 10226,
+                "stars": 10227,
                 "topics": [
                   "cyclejs",
                   "framework",
@@ -766,7 +766,7 @@
                 "open_issues": 139,
                 "owner": "cyclejs",
                 "repo": "cyclejs",
-                "stars": 10226,
+                "stars": 10227,
                 "topics": [
                   "cyclejs",
                   "framework",
@@ -795,7 +795,7 @@
                 "open_issues": 139,
                 "owner": "cyclejs",
                 "repo": "cyclejs",
-                "stars": 10226,
+                "stars": 10227,
                 "topics": [
                   "cyclejs",
                   "framework",
@@ -1196,13 +1196,13 @@
               "description": "A Cycle.js Driver for making HTTP requests using stackable-fetcher.",
               "children": [],
               "repo_info": {
-                "archived": false,
+                "archived": true,
                 "description": "A Cycle.js Driver for making HTTP requests using fetcher.",
                 "homepage": null,
                 "id": 43794168,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2015-10-08T13:38:03Z",
+                "last_commit": "2026-10-31T22:41:24Z",
                 "open_issues": 0,
                 "owner": "r7kamura",
                 "repo": "cycle-fetcher-driver",
@@ -2348,7 +2348,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T15:29:40.541Z",
+    "last_updated": "2026-11-01T16:22:27.475Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Cycle.js resources",
