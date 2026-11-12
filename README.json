@@ -21,7 +21,7 @@
                 "open_issues": 134,
                 "owner": "cyclejs",
                 "repo": "cyclejs",
-                "stars": 10230,
+                "stars": 10229,
                 "topics": [
                   "cyclejs",
                   "framework",
@@ -71,7 +71,7 @@
                 "open_issues": 10,
                 "owner": "staltz",
                 "repo": "matrixmultiplication.xyz",
-                "stars": 1216,
+                "stars": 1217,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:59:08.930Z"
@@ -679,7 +679,7 @@
                 "open_issues": 134,
                 "owner": "cyclejs",
                 "repo": "cyclejs",
-                "stars": 10230,
+                "stars": 10229,
                 "topics": [
                   "cyclejs",
                   "framework",
@@ -708,7 +708,7 @@
                 "open_issues": 134,
                 "owner": "cyclejs",
                 "repo": "cyclejs",
-                "stars": 10230,
+                "stars": 10229,
                 "topics": [
                   "cyclejs",
                   "framework",
@@ -737,7 +737,7 @@
                 "open_issues": 134,
                 "owner": "cyclejs",
                 "repo": "cyclejs",
-                "stars": 10230,
+                "stars": 10229,
                 "topics": [
                   "cyclejs",
                   "framework",
@@ -766,7 +766,7 @@
                 "open_issues": 134,
                 "owner": "cyclejs",
                 "repo": "cyclejs",
-                "stars": 10230,
+                "stars": 10229,
                 "topics": [
                   "cyclejs",
                   "framework",
@@ -795,7 +795,7 @@
                 "open_issues": 134,
                 "owner": "cyclejs",
                 "repo": "cyclejs",
-                "stars": 10230,
+                "stars": 10229,
                 "topics": [
                   "cyclejs",
                   "framework",
@@ -2348,7 +2348,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T17:26:56.146Z",
+    "last_updated": "2026-11-12T17:43:59.150Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Cycle.js resources",
