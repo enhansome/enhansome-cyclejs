@@ -92,7 +92,7 @@
                 "open_issues": 13,
                 "owner": "staltz",
                 "repo": "manyverse",
-                "stars": 953,
+                "stars": 954,
                 "topics": [
                   "cyclejs",
                   "manyverse",
@@ -2348,7 +2348,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T16:05:49.248Z",
+    "last_updated": "2026-11-15T16:34:44.467Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Cycle.js resources",
@@ -2357,10 +2357,10 @@
       "language": null,
       "license": null,
       "last_commit": "2026-09-28T07:19:54Z",
-      "open_issues": 1,
+      "open_issues": 2,
       "owner": "cyclejs-community",
       "repo": "awesome-cyclejs",
-      "stars": 820,
+      "stars": 821,
       "topics": []
     },
     "original_repository_sha": "97d6547b46b738f74ce60500a66b881a49552a8b",
