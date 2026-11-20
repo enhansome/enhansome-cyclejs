@@ -21,7 +21,7 @@
                 "open_issues": 151,
                 "owner": "cyclejs",
                 "repo": "cyclejs",
-                "stars": 10231,
+                "stars": 10230,
                 "topics": [
                   "cyclejs",
                   "framework",
@@ -50,7 +50,7 @@
                 "open_issues": 36,
                 "owner": "staltz",
                 "repo": "rxmarbles",
-                "stars": 4191,
+                "stars": 4192,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:59:08.930Z"
@@ -92,7 +92,7 @@
                 "open_issues": 13,
                 "owner": "staltz",
                 "repo": "manyverse",
-                "stars": 954,
+                "stars": 952,
                 "topics": [
                   "cyclejs",
                   "manyverse",
@@ -679,7 +679,7 @@
                 "open_issues": 151,
                 "owner": "cyclejs",
                 "repo": "cyclejs",
-                "stars": 10231,
+                "stars": 10230,
                 "topics": [
                   "cyclejs",
                   "framework",
@@ -708,7 +708,7 @@
                 "open_issues": 151,
                 "owner": "cyclejs",
                 "repo": "cyclejs",
-                "stars": 10231,
+                "stars": 10230,
                 "topics": [
                   "cyclejs",
                   "framework",
@@ -737,7 +737,7 @@
                 "open_issues": 151,
                 "owner": "cyclejs",
                 "repo": "cyclejs",
-                "stars": 10231,
+                "stars": 10230,
                 "topics": [
                   "cyclejs",
                   "framework",
@@ -766,7 +766,7 @@
                 "open_issues": 151,
                 "owner": "cyclejs",
                 "repo": "cyclejs",
-                "stars": 10231,
+                "stars": 10230,
                 "topics": [
                   "cyclejs",
                   "framework",
@@ -795,7 +795,7 @@
                 "open_issues": 151,
                 "owner": "cyclejs",
                 "repo": "cyclejs",
-                "stars": 10231,
+                "stars": 10230,
                 "topics": [
                   "cyclejs",
                   "framework",
@@ -1270,8 +1270,8 @@
                 "id": 108122031,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-18T03:03:41Z",
-                "open_issues": 2,
+                "last_commit": "2026-11-20T12:58:55Z",
+                "open_issues": 0,
                 "owner": "unhappychoice",
                 "repo": "cycle-pusher",
                 "stars": 11,
@@ -2348,7 +2348,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T18:39:32.336Z",
+    "last_updated": "2026-11-20T17:59:57.019Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Cycle.js resources",
