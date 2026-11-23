@@ -71,7 +71,7 @@
                 "open_issues": 10,
                 "owner": "staltz",
                 "repo": "matrixmultiplication.xyz",
-                "stars": 1217,
+                "stars": 1218,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:59:08.930Z"
@@ -92,7 +92,7 @@
                 "open_issues": 13,
                 "owner": "staltz",
                 "repo": "manyverse",
-                "stars": 952,
+                "stars": 951,
                 "topics": [
                   "cyclejs",
                   "manyverse",
@@ -2348,7 +2348,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T17:22:59.030Z",
+    "last_updated": "2026-11-23T21:39:33.390Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Cycle.js resources",
